@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-16T13:38:25+00:00</updated>
+  <updated>2023-08-16T15:41:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7266824670484188418</id>
-    <title>Invest in every Singaporean throughout their lives.  So that everyone has a second and third wind in their careers. #Tharman #TharmanShanmugaratnam #fyp #tiktoksg </title>
-    <updated>2023-08-13T15:11:12+00:00</updated>
-    <content>Invest in every Singaporean throughout their lives.  So that everyone has a second and third wind in their careers. #Tharman #TharmanShanmugaratnam #fyp #tiktoksg </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7266824670484188418" rel="alternate"/>
-    <published>2023-08-13T15:11:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7267136347440254210</id>
     <title>We must each be ourselves.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>It taught me a huge amount about respecting others  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7267914021075029250" rel="alternate"/>
     <published>2023-08-16T13:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7267945850830179585</id>
+    <title>Royston Tan, leading film director and Golden Horse Awards Nominee, on what he sees in Tharman and the future Singapore identity. #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
+    <updated>2023-08-16T15:41:55+00:00</updated>
+    <content>Royston Tan, leading film director and Golden Horse Awards Nominee, on what he sees in Tharman and the future Singapore identity. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7267945850830179585" rel="alternate"/>
+    <published>2023-08-16T15:41:55+00:00</published>
   </entry>
 </feed>
