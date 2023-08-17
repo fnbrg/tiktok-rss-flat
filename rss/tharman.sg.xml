@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-17T11:20:40+00:00</updated>
+  <updated>2023-08-17T14:06:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7267832754803395842</id>
-    <title>The President must have a deep understanding of the policy responses needed to tackle a major crisis, as well as an understanding of Singapore’s longer term challenges especially with climate change. It requires both independent judgement and expertise on</title>
-    <updated>2023-08-16T08:23:05+00:00</updated>
-    <content>The President must have a deep understanding of the policy responses needed to tackle a major crisis, as well as an understanding of Singapore’s longer term challenges especially with climate change. It requires both independent judgement and expertise on these complex issues. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7267832754803395842" rel="alternate"/>
-    <published>2023-08-16T08:23:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7267914021075029250</id>
     <title>It taught me a huge amount about respecting others  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>Mary Liew on Tharman’s commitment to workers, and voice of calm in difficult times.  Mary Liew is the President of the National Trades Union Congress, and the first woman General Secretary of the Singapore Maritime Officers' Union. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
     <link href="https://tiktok.com/@tharman.sg/video/7268249607409306881" rel="alternate"/>
     <published>2023-08-17T11:20:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268292327234456833</id>
+    <title>Michael, who plays multiple wheelchair sports competitively, shares how life has changed. #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
+    <updated>2023-08-17T14:06:25+00:00</updated>
+    <content>Michael, who plays multiple wheelchair sports competitively, shares how life has changed. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268292327234456833" rel="alternate"/>
+    <published>2023-08-17T14:06:25+00:00</published>
   </entry>
 </feed>
