@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-17T14:06:25+00:00</updated>
+  <updated>2023-08-17T15:08:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7267914021075029250</id>
-    <title>It taught me a huge amount about respecting others  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-16T13:38:25+00:00</updated>
-    <content>It taught me a huge amount about respecting others  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7267914021075029250" rel="alternate"/>
-    <published>2023-08-16T13:38:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7267945850830179585</id>
     <title>Royston Tan, leading film director and Golden Horse Awards Nominee, on what he sees in Tharman and the future Singapore identity. #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
@@ -91,5 +83,13 @@
     <content>Michael, who plays multiple wheelchair sports competitively, shares how life has changed. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
     <link href="https://tiktok.com/@tharman.sg/video/7268292327234456833" rel="alternate"/>
     <published>2023-08-17T14:06:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268308275496619265</id>
+    <title>We orh nee have 4 kids! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #orhnee </title>
+    <updated>2023-08-17T15:08:19+00:00</updated>
+    <content>We orh nee have 4 kids! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #orhnee </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268308275496619265" rel="alternate"/>
+    <published>2023-08-17T15:08:19+00:00</published>
   </entry>
 </feed>
