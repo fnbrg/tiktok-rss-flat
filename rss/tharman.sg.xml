@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-17T06:49:17+00:00</updated>
+  <updated>2023-08-17T08:48:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7267728595357879553</id>
-    <title>Their day starts at 3am 🕒 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-16T01:39:01+00:00</updated>
-    <content>Their day starts at 3am 🕒 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7267728595357879553" rel="alternate"/>
-    <published>2023-08-16T01:39:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7267780464134458625</id>
     <title>No one should be a nobody. Everyone can be somebody, with your own strengths, your own confidence.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>Lim Siong Guan on the person Tharman has always been. Lim Siong Guan is the Founding Chairman of Honour Singapore, Former Group President of GIC, and Former Head of the Singapore Civil Service. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
     <link href="https://tiktok.com/@tharman.sg/video/7268179648176016642" rel="alternate"/>
     <published>2023-08-17T06:49:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268210417632136449</id>
+    <title>Salina, when asked what she feels about Tharman leaving politics to run for President 😂 #Tharman #TharmanShanmugaratnam #RespectForAllSG </title>
+    <updated>2023-08-17T08:48:39+00:00</updated>
+    <content>Salina, when asked what she feels about Tharman leaving politics to run for President 😂 #Tharman #TharmanShanmugaratnam #RespectForAllSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268210417632136449" rel="alternate"/>
+    <published>2023-08-17T08:48:39+00:00</published>
   </entry>
 </feed>
