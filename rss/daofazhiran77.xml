@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@daofazhiran77</id>
   <title>daofazhiran77 TikTok</title>
-  <updated>2023-08-16T01:05:05+00:00</updated>
+  <updated>2023-08-17T12:44:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from daofazhiran77</subtitle>
-  <entry>
-    <id>https://tiktok.com/@daofazhiran77/video/7261943704217226498</id>
-    <title>George Goh will bring a better Singapore !#总统选举2023 #ngkoksong #georgegohchingwah #tharman #tankinlian #吴振华 #新加坡总统选举2023 #singapore </title>
-    <updated>2023-07-31T11:30:32+00:00</updated>
-    <content>George Goh will bring a better Singapore !#总统选举2023 #ngkoksong #georgegohchingwah #tharman #tankinlian #吴振华 #新加坡总统选举2023 #singapore </content>
-    <link href="https://tiktok.com/@daofazhiran77/video/7261943704217226498" rel="alternate"/>
-    <published>2023-07-31T11:30:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@daofazhiran77/video/7262721742261472513</id>
     <title>相信他。新加坡会更好。 #singapore  #新加坡总统选举2023 #吴振华  #georgegohchingwah  #presidentelection2023  #fyp  #singaporetiktok  #坚持  #翁立友 </title>
@@ -91,5 +83,13 @@
     <content>Really Appreciate Mr George Goh for sharing his visions and ideas (action plan) No One has come close to his commitment to Singapore ! Please help to spread the words. we need everyone to come together and support his campaign for a better Singapore!! #freedom #future #better #singapore #election #吴振华 #singaporetiktok #georgegohchingwah #presidentialelection #fyp </content>
     <link href="https://tiktok.com/@daofazhiran77/video/7267719852566138113" rel="alternate"/>
     <published>2023-08-16T01:05:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@daofazhiran77/video/7268271236688481538</id>
+    <title>George Goh's is just perfect for our Singapore president ! #fyp  #presidentialelection  #georgegohchingwah  #singaporetiktok  #吴振华  #singapore  #freedom  #新加坡总统选举2023 </title>
+    <updated>2023-08-17T12:44:36+00:00</updated>
+    <content>George Goh's is just perfect for our Singapore president ! #fyp  #presidentialelection  #georgegohchingwah  #singaporetiktok  #吴振华  #singapore  #freedom  #新加坡总统选举2023 </content>
+    <link href="https://tiktok.com/@daofazhiran77/video/7268271236688481538" rel="alternate"/>
+    <published>2023-08-17T12:44:36+00:00</published>
   </entry>
 </feed>

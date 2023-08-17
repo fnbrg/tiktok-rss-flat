@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-17T03:59:17+00:00</updated>
+  <updated>2023-08-17T11:55:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7267520105918024962</id>
-    <title>We cannot take good government for granted. To use an analogy from corporate governance, it is not sufficient to have internal audit. We will need an external auditor to ascertain and demonstrate there is good governance. An independent President can play</title>
-    <updated>2023-08-15T12:09:49+00:00</updated>
-    <content>We cannot take good government for granted. To use an analogy from corporate governance, it is not sufficient to have internal audit. We will need an external auditor to ascertain and demonstrate there is good governance. An independent President can play that role to promote strong governance in Singapore. #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7267520105918024962" rel="alternate"/>
-    <published>2023-08-15T12:09:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7267530517942160642</id>
     <title>Through CPF savings, Singaporeans earn a good risk-free interest rate for their retirement. The Government invests our CPF savings alongside its budget surpluses for the future. The President, as the custodian of the reserves, plays an important role in k</title>
@@ -91,5 +83,13 @@
     <content>In all my professional career, I have never courted limelight. I was focused on generating returns for Singapore. For this Presidential Election, I have been working hard to tell my stories to Singaporeans. I want you guys to know me for who I am and I hope to have your support. #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7268135866743229704" rel="alternate"/>
     <published>2023-08-17T03:59:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7268258699553131784</id>
+    <title>Our food centres are precious communal grounds, for everyone to sit together and enjoy the wonderful diverse cuisines. I hope we can keep the tradition for many more generations to come. We must help our hawkers in whatever ways we can to ensure their sus</title>
+    <updated>2023-08-17T11:55:57+00:00</updated>
+    <content>Our food centres are precious communal grounds, for everyone to sit together and enjoy the wonderful diverse cuisines. I hope we can keep the tradition for many more generations to come. We must help our hawkers in whatever ways we can to ensure their sustainability. What is your favourite local dish? Mine is meepok! #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7268258699553131784" rel="alternate"/>
+    <published>2023-08-17T11:55:57+00:00</published>
   </entry>
 </feed>
