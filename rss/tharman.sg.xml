@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-17T03:11:23+00:00</updated>
+  <updated>2023-08-17T05:19:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7267426816728517890</id>
-    <title>Look beyond politics.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-15T06:07:47+00:00</updated>
-    <content>Look beyond politics.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7267426816728517890" rel="alternate"/>
-    <published>2023-08-15T06:07:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7267477769221688577</id>
     <title>See no up, see no down.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>Having kids with minds of their own is humbling #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7268123520226348289" rel="alternate"/>
     <published>2023-08-17T03:11:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268156593861184770</id>
+    <title>It is the culture of respecting all and empowering each other that makes everything else possible #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
+    <updated>2023-08-17T05:19:45+00:00</updated>
+    <content>It is the culture of respecting all and empowering each other that makes everything else possible #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268156593861184770" rel="alternate"/>
+    <published>2023-08-17T05:19:45+00:00</published>
   </entry>
 </feed>
