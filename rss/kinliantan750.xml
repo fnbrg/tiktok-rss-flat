@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-17T12:44:49+00:00</updated>
+  <updated>2023-08-17T17:14:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7267827972244016386</id>
-    <title>No Title</title>
-    <updated>2023-08-16T08:04:30+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7267827972244016386" rel="alternate"/>
-    <published>2023-08-16T08:04:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7267885941715471617</id>
-    <title>Singapore 🇸🇬 today  #singapore </title>
-    <updated>2023-08-16T11:49:30+00:00</updated>
-    <content>Singapore 🇸🇬 today  #singapore </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7267885941715471617" rel="alternate"/>
-    <published>2023-08-16T11:49:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7267897499996785921</id>
     <title>Who needs fancy clothes, expensive meals, and luxury cars to be a great presidential candidate? Not this one! Keeping it real, just like us.  #singapore #foryoupage #singaporeelection2023  #OrdinaryLife  #PresidentialCandidate</title>
@@ -91,5 +75,21 @@
     <content>Tan Kin Lian will only submit Nomination Form if George Goh doesn't qualify</content>
     <link href="https://tiktok.com/@kinliantan750/video/7268271300248980738" rel="alternate"/>
     <published>2023-08-17T12:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7268339210409495809</id>
+    <title>#tankinlian #foryourpage #singaporeelection2023 #foryoupage #singaporeelections </title>
+    <updated>2023-08-17T17:08:20+00:00</updated>
+    <content>#tankinlian #foryourpage #singaporeelection2023 #foryoupage #singaporeelections </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7268339210409495809" rel="alternate"/>
+    <published>2023-08-17T17:08:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7268340873899937025</id>
+    <title>#tankinlian #foryoupage #foryourpage #singapore #singaporeelection2023 #singaporePresidentialCandidate </title>
+    <updated>2023-08-17T17:14:49+00:00</updated>
+    <content>#tankinlian #foryoupage #foryourpage #singapore #singaporeelection2023 #singaporePresidentialCandidate </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7268340873899937025" rel="alternate"/>
+    <published>2023-08-17T17:14:49+00:00</published>
   </entry>
 </feed>
