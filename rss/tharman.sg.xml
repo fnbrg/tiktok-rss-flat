@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-16T15:41:55+00:00</updated>
+  <updated>2023-08-17T01:40:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7267136347440254210</id>
-    <title>We must each be ourselves.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-14T11:20:40+00:00</updated>
-    <content>We must each be ourselves.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7267136347440254210" rel="alternate"/>
-    <published>2023-08-14T11:20:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7267358708072451330</id>
     <title>On the mystery of the crescent and the stars on my head 😅 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>Royston Tan, leading film director and Golden Horse Awards Nominee, on what he sees in Tharman and the future Singapore identity. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
     <link href="https://tiktok.com/@tharman.sg/video/7267945850830179585" rel="alternate"/>
     <published>2023-08-16T15:41:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268100008887553282</id>
+    <title>Watch out for the fruit with five fingers #五代同堂 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
+    <updated>2023-08-17T01:40:10+00:00</updated>
+    <content>Watch out for the fruit with five fingers #五代同堂 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268100008887553282" rel="alternate"/>
+    <published>2023-08-17T01:40:10+00:00</published>
   </entry>
 </feed>
