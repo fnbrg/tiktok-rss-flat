@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-17T01:44:56+00:00</updated>
+  <updated>2023-08-17T03:59:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7267465330304240897</id>
-    <title>Our heartland food spots and markets are part of Singapore’s treasures! They bring us together to dine and bond. It is good to see these places thriving again post-pandemic. I hope we will do our best to develop and preserve them for our future generation</title>
-    <updated>2023-08-15T08:37:16+00:00</updated>
-    <content>Our heartland food spots and markets are part of Singapore’s treasures! They bring us together to dine and bond. It is good to see these places thriving again post-pandemic. I hope we will do our best to develop and preserve them for our future generations. #ngkoksong2023 #unitedforourfuture #breakfast #foodie #nostalgia </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7267465330304240897" rel="alternate"/>
-    <published>2023-08-15T08:37:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7267520105918024962</id>
     <title>We cannot take good government for granted. To use an analogy from corporate governance, it is not sufficient to have internal audit. We will need an external auditor to ascertain and demonstrate there is good governance. An independent President can play</title>
@@ -91,5 +83,13 @@
     <content>Testimonial for Ng Kok Song By Dawa Tarchin Phillips Global Transformational Leader CEO of Empowerment Holdings Consultancy for Business Leaders #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7268101230025575688" rel="alternate"/>
     <published>2023-08-17T01:44:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7268135866743229704</id>
+    <title>In all my professional career, I have never courted limelight. I was focused on generating returns for Singapore. For this Presidential Election, I have been working hard to tell my stories to Singaporeans. I want you guys to know me for who I am and I ho</title>
+    <updated>2023-08-17T03:59:17+00:00</updated>
+    <content>In all my professional career, I have never courted limelight. I was focused on generating returns for Singapore. For this Presidential Election, I have been working hard to tell my stories to Singaporeans. I want you guys to know me for who I am and I hope to have your support. #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7268135866743229704" rel="alternate"/>
+    <published>2023-08-17T03:59:17+00:00</published>
   </entry>
 </feed>
