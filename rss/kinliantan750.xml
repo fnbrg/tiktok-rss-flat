@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-17T04:12:43+00:00</updated>
+  <updated>2023-08-17T09:51:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7267613851854638337</id>
-    <title>Tan Kin Lian  #foryoupage #singapore #singaporeelection2023 Singapore presidential candidates 2023</title>
-    <updated>2023-08-15T18:13:39+00:00</updated>
-    <content>Tan Kin Lian  #foryoupage #singapore #singaporeelection2023 Singapore presidential candidates 2023</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7267613851854638337" rel="alternate"/>
-    <published>2023-08-15T18:13:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7267625507389246722</id>
-    <title>Advice from people's president  Tan Kin Lian #singapore #foryoupage #</title>
-    <updated>2023-08-15T18:58:53+00:00</updated>
-    <content>Advice from people's president  Tan Kin Lian #singapore #foryoupage #</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7267625507389246722" rel="alternate"/>
-    <published>2023-08-15T18:58:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7267773648856026370</id>
     <title>#duet with @Gary </title>
@@ -91,5 +75,21 @@
     <content>Vote TKL</content>
     <link href="https://tiktok.com/@kinliantan750/video/7268139328486771969" rel="alternate"/>
     <published>2023-08-17T04:12:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7268224877792906497</id>
+    <title>Tan Kin Lian  #PresidentialCandidate #singaporeelection2023 #foryoupage #singapore #foryourpage #tankinlian</title>
+    <updated>2023-08-17T09:44:42+00:00</updated>
+    <content>Tan Kin Lian  #PresidentialCandidate #singaporeelection2023 #foryoupage #singapore #foryourpage #tankinlian</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7268224877792906497" rel="alternate"/>
+    <published>2023-08-17T09:44:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7268226648317758721</id>
+    <title>#duet with @Mothership #fyp #tankinlian #foryourpage #singapore #singaporeelection2023 #foryoupage #PresidentialCandidate </title>
+    <updated>2023-08-17T09:51:35+00:00</updated>
+    <content>#duet with @Mothership #fyp #tankinlian #foryourpage #singapore #singaporeelection2023 #foryoupage #PresidentialCandidate </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7268226648317758721" rel="alternate"/>
+    <published>2023-08-17T09:51:35+00:00</published>
   </entry>
 </feed>
