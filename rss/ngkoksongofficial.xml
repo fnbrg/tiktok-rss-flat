@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-18T05:15:09+00:00</updated>
+  <updated>2023-08-18T12:50:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7267749502059072786</id>
-    <title>Testimonial for Ng Kok Song By Chua Cher Choon Former Chairman of Montfort School Management Committee #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-16T03:00:12+00:00</updated>
-    <content>Testimonial for Ng Kok Song By Chua Cher Choon Former Chairman of Montfort School Management Committee #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7267749502059072786" rel="alternate"/>
-    <published>2023-08-16T03:00:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7267766636462034194</id>
     <title>I was in public service for 45 years. I know how important it is to uphold the integrity of our key appointment holders. It is not just about conforming to the letter of the law. It is also about honouring the spirit of the law! #ngkoksong2023 #unitedforo</title>
@@ -91,5 +83,13 @@
     <content>10.26am, 18 August 2023, marks the start of my official journey as a Presidential Candidate to continue to serve all Singaporeans. The Presidential Elections Committee has issued me the Certificate of Eligibility. As I reflect, I would like to honour the generations before me who built the strong foundation of Singapore. For all of us, here and now, let's do our best for the current and future generations to realise our hopes and ensure that Singapore continues to thrive. I will give my very best to this Presidential bid, as I seek the privilege to be of service and build a united Singapore for the future. #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7268526479217151239" rel="alternate"/>
     <published>2023-08-18T05:15:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7268643880243858695</id>
+    <title>Spent time with @Hao and dad on their new podcast! It's been such a joy learning from our youths! Social media has been a level playing field for an independent candidate like  myself. To all my online friends supporting my efforts in this presidential el</title>
+    <updated>2023-08-18T12:50:37+00:00</updated>
+    <content>Spent time with @Hao and dad on their new podcast! It's been such a joy learning from our youths! Social media has been a level playing field for an independent candidate like  myself. To all my online friends supporting my efforts in this presidential election, thank you. #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7268643880243858695" rel="alternate"/>
+    <published>2023-08-18T12:50:37+00:00</published>
   </entry>
 </feed>
