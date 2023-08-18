@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-18T04:49:19+00:00</updated>
+  <updated>2023-08-18T07:24:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7268156593861184770</id>
-    <title>It is the culture of respecting all and empowering each other that makes everything else possible #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-17T05:19:45+00:00</updated>
-    <content>It is the culture of respecting all and empowering each other that makes everything else possible #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7268156593861184770" rel="alternate"/>
-    <published>2023-08-17T05:19:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7268179648176016642</id>
     <title>Lim Siong Guan on the person Tharman has always been. Lim Siong Guan is the Founding Chairman of Honour Singapore, Former Group President of GIC, and Former Head of the Singapore Civil Service. #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
@@ -91,5 +83,13 @@
     <content>A thought-provoking question by Leon Foo @Drinkmorning  A fairer and more progressive society has always been my goal, and I'll continue to work for it. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7268519846835408130" rel="alternate"/>
     <published>2023-08-18T04:49:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268559848210484482</id>
+    <title>Shankari on Mr Tharman's belief that everybody can be somebody. #Tharman #TharmanShanmugaratnam #RespectForAllSG </title>
+    <updated>2023-08-18T07:24:36+00:00</updated>
+    <content>Shankari on Mr Tharman's belief that everybody can be somebody. #Tharman #TharmanShanmugaratnam #RespectForAllSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268559848210484482" rel="alternate"/>
+    <published>2023-08-18T07:24:36+00:00</published>
   </entry>
 </feed>
