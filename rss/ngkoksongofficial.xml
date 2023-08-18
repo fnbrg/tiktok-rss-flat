@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-18T01:43:33+00:00</updated>
+  <updated>2023-08-18T04:23:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7267702822332861703</id>
-    <title>In life, despite our best effort, the outcome may not be what we expect or want. But the important thing is to give it your best shot. #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-15T23:59:21+00:00</updated>
-    <content>In life, despite our best effort, the outcome may not be what we expect or want. But the important thing is to give it your best shot. #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7267702822332861703" rel="alternate"/>
-    <published>2023-08-15T23:59:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7267719289992531208</id>
     <title>Spent my morning with the hosts of @The Daily Ketchup🚀 🍅 I got to revive some fond memories as we dug into my past and talked about the future. Glad that they did not hold back on the questions, all while sharing their warm and infectious energy with me. </title>
@@ -91,5 +83,13 @@
     <content>Testimonial for Ng Kok Song By Eric Ching Former Treasury Manager, Citibank Former Treasury Manager, OCBC #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7268471929856740616" rel="alternate"/>
     <published>2023-08-18T01:43:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7268513233420569864</id>
+    <title>I'm glad that our hawker centres are easily accessible to enjoy local favourites, allowing us to bond and connect over makan.  To the many hawkers and members of public whom I have met - thank you for all the warmth and support! As an independent candidat</title>
+    <updated>2023-08-18T04:23:47+00:00</updated>
+    <content>I'm glad that our hawker centres are easily accessible to enjoy local favourites, allowing us to bond and connect over makan.  To the many hawkers and members of public whom I have met - thank you for all the warmth and support! As an independent candidate, I appreciate all of you ❤️ #ngkoksong2023 #unitedforourfuture #foodtiktok #hawker #vibes </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7268513233420569864" rel="alternate"/>
+    <published>2023-08-18T04:23:47+00:00</published>
   </entry>
 </feed>
