@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-17T15:08:19+00:00</updated>
+  <updated>2023-08-18T01:53:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7267945850830179585</id>
-    <title>Royston Tan, leading film director and Golden Horse Awards Nominee, on what he sees in Tharman and the future Singapore identity. #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
-    <updated>2023-08-16T15:41:55+00:00</updated>
-    <content>Royston Tan, leading film director and Golden Horse Awards Nominee, on what he sees in Tharman and the future Singapore identity. #Tharman #TharmanShanmugaratnam #RespectForAllSG</content>
-    <link href="https://tiktok.com/@tharman.sg/video/7267945850830179585" rel="alternate"/>
-    <published>2023-08-16T15:41:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7268100008887553282</id>
     <title>Watch out for the fruit with five fingers #五代同堂 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>We orh nee have 4 kids! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #orhnee </content>
     <link href="https://tiktok.com/@tharman.sg/video/7268308275496619265" rel="alternate"/>
     <published>2023-08-17T15:08:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268474620120976641</id>
+    <title>Still one of the nicest places on the island. An eye-opening visit for many of the teens who visited Sungei Buloh with us to celebrate International Youth Day 🌱  @Just Keep Thinking  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature #internationalyou</title>
+    <updated>2023-08-18T01:53:51+00:00</updated>
+    <content>Still one of the nicest places on the island. An eye-opening visit for many of the teens who visited Sungei Buloh with us to celebrate International Youth Day 🌱  @Just Keep Thinking  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature #internationalyouthday </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268474620120976641" rel="alternate"/>
+    <published>2023-08-18T01:53:51+00:00</published>
   </entry>
 </feed>
