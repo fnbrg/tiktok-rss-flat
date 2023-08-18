@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-18T12:28:05+00:00</updated>
+  <updated>2023-08-18T13:24:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7268562568661224705</id>
-    <title>#tankinlian #PresidentialCandidate #foryoupage #foryourpage #singaporeelection2023 #singapore </title>
-    <updated>2023-08-18T07:35:10+00:00</updated>
-    <content>#tankinlian #PresidentialCandidate #foryoupage #foryourpage #singaporeelection2023 #singapore </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7268562568661224705" rel="alternate"/>
-    <published>2023-08-18T07:35:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7268568599088975106</id>
-    <title>#singapore #singaporeelection2023 #foryourpage #foryoupage #PresidentialCandidate #tankinlian #singaporePresidentialCandidate #singaporeelections </title>
-    <updated>2023-08-18T07:58:31+00:00</updated>
-    <content>#singapore #singaporeelection2023 #foryourpage #foryoupage #PresidentialCandidate #tankinlian #singaporePresidentialCandidate #singaporeelections </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7268568599088975106" rel="alternate"/>
-    <published>2023-08-18T07:58:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7268575426237205762</id>
     <title>#singaporeelections #singaporePresidentialCandidate #tankinlian #PresidentialCandidate #foryoupage #foryourpage #singaporeelection2023 #singapore #fyp </title>
@@ -91,5 +75,21 @@
     <content>They have to put their bus stop closer to the station.  #tankinlian #singapore #singaporePresidentialCandidate #singaporeelection2023 #foryoupage #foryourpage #PresidentialCandidate </content>
     <link href="https://tiktok.com/@kinliantan750/video/7268638068721110273" rel="alternate"/>
     <published>2023-08-18T12:28:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7268646987191422209</id>
+    <title>My volunteers and I will work hard in the campaign to offer to the people of Singapore the choice of electing an president who is independent of the ruling government. If elected, I will use the office of the president to work with the government on ways </title>
+    <updated>2023-08-18T13:02:42+00:00</updated>
+    <content>My volunteers and I will work hard in the campaign to offer to the people of Singapore the choice of electing an president who is independent of the ruling government. If elected, I will use the office of the president to work with the government on ways to improve the lives of the people, in particular to reduce the cost of living, make housing affordable and have secure and well paying jobs. I am personally disappointed that Mr. George Goh was not eligible to contest this election. I like to wish Mr. Goh all the best in his future endeavors.  Tan Kin Lian </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7268646987191422209" rel="alternate"/>
+    <published>2023-08-18T13:02:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7268652706263207170</id>
+    <title>Join my team to support my campaign. </title>
+    <updated>2023-08-18T13:24:53+00:00</updated>
+    <content>Join my team to support my campaign. </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7268652706263207170" rel="alternate"/>
+    <published>2023-08-18T13:24:53+00:00</published>
   </entry>
 </feed>
