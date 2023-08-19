@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-19T03:04:49+00:00</updated>
+  <updated>2023-08-19T05:56:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7268308275496619265</id>
-    <title>We orh nee have 4 kids! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #orhnee </title>
-    <updated>2023-08-17T15:08:19+00:00</updated>
-    <content>We orh nee have 4 kids! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #orhnee </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7268308275496619265" rel="alternate"/>
-    <published>2023-08-17T15:08:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7268477741387877633</id>
     <title>What spiders, badminton and monitor lizards have in common 🦎 @Just Keep Thinking #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature </title>
@@ -91,5 +83,13 @@
     <content>We have to shake off complacency on climate change, for a more optimistic future.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7268863983011106049" rel="alternate"/>
     <published>2023-08-19T03:04:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268908308017188098</id>
+    <title>Delivering the biennial McDougall Memorial Lecture at the @UN's Food &amp; Ag Org’s Ministerial Conference on 1 July 2023. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG  </title>
+    <updated>2023-08-19T05:56:43+00:00</updated>
+    <content>Delivering the biennial McDougall Memorial Lecture at the @UN's Food &amp; Ag Org’s Ministerial Conference on 1 July 2023. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG  </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268908308017188098" rel="alternate"/>
+    <published>2023-08-19T05:56:43+00:00</published>
   </entry>
 </feed>
