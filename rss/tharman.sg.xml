@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-19T05:56:43+00:00</updated>
+  <updated>2023-08-19T09:17:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7268477741387877633</id>
-    <title>What spiders, badminton and monitor lizards have in common 🦎 @Just Keep Thinking #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature </title>
-    <updated>2023-08-18T02:05:59+00:00</updated>
-    <content>What spiders, badminton and monitor lizards have in common 🦎 @Just Keep Thinking #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7268477741387877633" rel="alternate"/>
-    <published>2023-08-18T02:05:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7268490123078028546</id>
-    <title>Still one of the nicest places on the island. An eye-opening visit for many of the teens who visited Sungei Buloh with us to celebrate International Youth Day 🌱 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature #internationalyouthday </title>
-    <updated>2023-08-18T02:54:00+00:00</updated>
-    <content>Still one of the nicest places on the island. An eye-opening visit for many of the teens who visited Sungei Buloh with us to celebrate International Youth Day 🌱 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #nature #internationalyouthday </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7268490123078028546" rel="alternate"/>
-    <published>2023-08-18T02:54:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7268519846835408130</id>
     <title>A thought-provoking question by Leon Foo @Drinkmorning  A fairer and more progressive society has always been my goal, and I'll continue to work for it. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +75,21 @@
     <content>Delivering the biennial McDougall Memorial Lecture at the @UN's Food &amp; Ag Org’s Ministerial Conference on 1 July 2023. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG  </content>
     <link href="https://tiktok.com/@tharman.sg/video/7268908308017188098" rel="alternate"/>
     <published>2023-08-19T05:56:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268930205052407058</id>
+    <title>HALO-new-GEN! 📍Halogen Foundation 20th Anniversary #Tharman #TharmanShanmugaratnam #tiktoksg #fyp </title>
+    <updated>2023-08-19T07:21:46+00:00</updated>
+    <content>HALO-new-GEN! 📍Halogen Foundation 20th Anniversary #Tharman #TharmanShanmugaratnam #tiktoksg #fyp </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268930205052407058" rel="alternate"/>
+    <published>2023-08-19T07:21:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7268960026092375314</id>
+    <title>Kamsinah Sadar, General Manager of charity Tasek Jurong, on Tharman creating a culture of respect on the ground. #Tharman #TharmanShanmugaratnam #RespectForAllSG </title>
+    <updated>2023-08-19T09:17:25+00:00</updated>
+    <content>Kamsinah Sadar, General Manager of charity Tasek Jurong, on Tharman creating a culture of respect on the ground. #Tharman #TharmanShanmugaratnam #RespectForAllSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7268960026092375314" rel="alternate"/>
+    <published>2023-08-19T09:17:25+00:00</published>
   </entry>
 </feed>
