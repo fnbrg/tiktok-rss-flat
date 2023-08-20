@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-20T08:10:11+00:00</updated>
+  <updated>2023-08-20T10:25:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7268882672938781960</id>
-    <title>Feeling great! I got to share about what it’s like to run an investment management firm from the ground up, with young entrepreneurs like Dinesh and Timothy from @DollarsAndSense ! Our youths are the future of Singapore. 🇸🇬 #ngkoksong2023 #unitedforourfut</title>
-    <updated>2023-08-19T04:17:18+00:00</updated>
-    <content>Feeling great! I got to share about what it’s like to run an investment management firm from the ground up, with young entrepreneurs like Dinesh and Timothy from @DollarsAndSense ! Our youths are the future of Singapore. 🇸🇬 #ngkoksong2023 #unitedforourfuture #lifehacks #adulting #money </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7268882672938781960" rel="alternate"/>
-    <published>2023-08-19T04:17:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7268908187275840786</id>
     <title>The President must be above politics. I am independent and I will be able to unify Singaporeans, regardless of their differences or political affiliations. #ngkoksong2023 #unitedforourfuture </title>
@@ -91,5 +83,13 @@
     <content>Some friends heard about the two bookends of my career which I shared at a @Mothership interview, and asked to read them. The first was a testimonial from my school teacher when I graduated from Montfort School. The second was a letter from PM Lee Hsien Loong when I retired from GIC. These two documents are the bookends of my career. #unitedforourfuture #ngkoksong2023 </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269313776560655634" rel="alternate"/>
     <published>2023-08-20T08:10:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269348759472049415</id>
+    <title>I got the chance to share about my long commitment to our financial defence with @l@ZYRUP Media. I talked about the strategies I proposed and executed in GIC. It was my dream job because I found happiness in contributing to the welfare of Singaporeans. It</title>
+    <updated>2023-08-20T10:25:57+00:00</updated>
+    <content>I got the chance to share about my long commitment to our financial defence with @l@ZYRUP Media. I talked about the strategies I proposed and executed in GIC. It was my dream job because I found happiness in contributing to the welfare of Singaporeans. It is great to see you guys invested in politics too. Also, congrats on the success of your podcast. Stay tuned for this episode tomorrow 👏 #ngkoksong2023 #unitedforourfuture</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269348759472049415" rel="alternate"/>
+    <published>2023-08-20T10:25:57+00:00</published>
   </entry>
 </feed>
