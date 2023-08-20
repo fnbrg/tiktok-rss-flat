@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-20T10:25:57+00:00</updated>
+  <updated>2023-08-20T11:54:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7268908187275840786</id>
-    <title>The President must be above politics. I am independent and I will be able to unify Singaporeans, regardless of their differences or political affiliations. #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-19T05:56:32+00:00</updated>
-    <content>The President must be above politics. I am independent and I will be able to unify Singaporeans, regardless of their differences or political affiliations. #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7268908187275840786" rel="alternate"/>
-    <published>2023-08-19T05:56:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7268983712849628424</id>
     <title>The only country in the world that GIC does not invest in is Singapore. In my time as Group CIO I made numerous international business networks with key appointment holders. I will be able to do do you proud on the global stage. #ngkoksong2023 #unitedforo</title>
@@ -91,5 +83,13 @@
     <content>I got the chance to share about my long commitment to our financial defence with @l@ZYRUP Media. I talked about the strategies I proposed and executed in GIC. It was my dream job because I found happiness in contributing to the welfare of Singaporeans. It is great to see you guys invested in politics too. Also, congrats on the success of your podcast. Stay tuned for this episode tomorrow 👏 #ngkoksong2023 #unitedforourfuture</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269348759472049415" rel="alternate"/>
     <published>2023-08-20T10:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269371512803626248</id>
+    <title>Sybil spoke to @Mothership to share her personal stories. Sybil is a rather private person but she hopes for more people to understand her better. She talks about our relationship, her mum, and her philanthropy! Can’t give too much away as this is her sto</title>
+    <updated>2023-08-20T11:54:11+00:00</updated>
+    <content>Sybil spoke to @Mothership to share her personal stories. Sybil is a rather private person but she hopes for more people to understand her better. She talks about our relationship, her mum, and her philanthropy! Can’t give too much away as this is her story to tell. Stay tuned for the interview out soon! Thank you for being by my side through this journey. #ngkoksong2023 #unitedforourfuture #womenoftiktok #womenempowerment #womenpower </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269371512803626248" rel="alternate"/>
+    <published>2023-08-20T11:54:11+00:00</published>
   </entry>
 </feed>
