@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-20T01:58:33+00:00</updated>
+  <updated>2023-08-20T03:59:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7268526479217151239</id>
-    <title>10.26am, 18 August 2023, marks the start of my official journey as a Presidential Candidate to continue to serve all Singaporeans. The Presidential Elections Committee has issued me the Certificate of Eligibility. As I reflect, I would like to honour the </title>
-    <updated>2023-08-18T05:15:09+00:00</updated>
-    <content>10.26am, 18 August 2023, marks the start of my official journey as a Presidential Candidate to continue to serve all Singaporeans. The Presidential Elections Committee has issued me the Certificate of Eligibility. As I reflect, I would like to honour the generations before me who built the strong foundation of Singapore. For all of us, here and now, let's do our best for the current and future generations to realise our hopes and ensure that Singapore continues to thrive. I will give my very best to this Presidential bid, as I seek the privilege to be of service and build a united Singapore for the future. #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7268526479217151239" rel="alternate"/>
-    <published>2023-08-18T05:15:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7268643880243858695</id>
     <title>Spent time with @Hao and dad on their new podcast! It's been such a joy learning from our youths! Social media has been a level playing field for an independent candidate like  myself. To all my online friends supporting my efforts in this presidential el</title>
@@ -91,5 +83,13 @@
     <content>Testimonial for Ng Kok Song By Tjio Kay Loen Former Assistant General Manager, OCBC  #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269217997858901266" rel="alternate"/>
     <published>2023-08-20T01:58:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269249056851987719</id>
+    <title>Stepping into the markets after receiving my Certificate of Eligibility felt like a dream. When I was a kid, I spent most of time helping my dad at the fish market. Now I’m running to be your elected President. My dream has always been to be able to serve</title>
+    <updated>2023-08-20T03:59:03+00:00</updated>
+    <content>Stepping into the markets after receiving my Certificate of Eligibility felt like a dream. When I was a kid, I spent most of time helping my dad at the fish market. Now I’m running to be your elected President. My dream has always been to be able to serve others. After working in the GIC for 45 years, serving the welfare of Singaporeans, I am honoured to be able to serve again. I will honour the hopes and dreams of our past, present and future generations. Thank you Singapore! #ngkoksong2023 #unitedforourfuture #dreamscometrue #lifegoals #goals </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269249056851987719" rel="alternate"/>
+    <published>2023-08-20T03:59:03+00:00</published>
   </entry>
 </feed>
