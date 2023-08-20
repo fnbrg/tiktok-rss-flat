@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-19T14:09:25+00:00</updated>
+  <updated>2023-08-20T01:58:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7268471929856740616</id>
-    <title>Testimonial for Ng Kok Song By Eric Ching Former Treasury Manager, Citibank Former Treasury Manager, OCBC #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-18T01:43:33+00:00</updated>
-    <content>Testimonial for Ng Kok Song By Eric Ching Former Treasury Manager, Citibank Former Treasury Manager, OCBC #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7268471929856740616" rel="alternate"/>
-    <published>2023-08-18T01:43:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7268513233420569864</id>
-    <title>I'm glad that our hawker centres are easily accessible to enjoy local favourites, allowing us to bond and connect over makan.  To the many hawkers and members of public whom I have met - thank you for all the warmth and support! As an independent candidat</title>
-    <updated>2023-08-18T04:23:47+00:00</updated>
-    <content>I'm glad that our hawker centres are easily accessible to enjoy local favourites, allowing us to bond and connect over makan.  To the many hawkers and members of public whom I have met - thank you for all the warmth and support! As an independent candidate, I appreciate all of you ❤️ #ngkoksong2023 #unitedforourfuture #foodtiktok #hawker #vibes </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7268513233420569864" rel="alternate"/>
-    <published>2023-08-18T04:23:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7268526479217151239</id>
     <title>10.26am, 18 August 2023, marks the start of my official journey as a Presidential Candidate to continue to serve all Singaporeans. The Presidential Elections Committee has issued me the Certificate of Eligibility. As I reflect, I would like to honour the </title>
@@ -91,5 +75,21 @@
     <content>True happiness comes from caring for others. When I was at GIC, I derived happiness from contributing to the welfare of Singaporeans. So whatever you do, consider asking yourself ‘how can I contribute to the happiness and welfare of another person?’  Acts of kindness and generosity expand your being. But when you are self centred, you contract into your ego. You have to understand this through your experiences in life ❤️  #ngkoksong2023 #unitedforourfuture #lifehacks #adulting #happiness </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269035265530858759" rel="alternate"/>
     <published>2023-08-19T14:09:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269201802032205063</id>
+    <title>Philanthropy is not just the giving of money. Companies in Singapore could do more to promote this idea of structured volunteerism. It means establishing a way for employees to contribute to community work.  Encourage staff to go down to the ground and do</title>
+    <updated>2023-08-20T00:55:48+00:00</updated>
+    <content>Philanthropy is not just the giving of money. Companies in Singapore could do more to promote this idea of structured volunteerism. It means establishing a way for employees to contribute to community work.  Encourage staff to go down to the ground and do simple things such as distributing food to the poor. It doesn’t cost a lot of money but it costs time. So the leadership of these organisations must set an example. 🙌 #ngkoksong2023 #unitedforourfuture #adulting #happiness #love </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269201802032205063" rel="alternate"/>
+    <published>2023-08-20T00:55:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269217997858901266</id>
+    <title>Testimonial for Ng Kok Song By Tjio Kay Loen Former Assistant General Manager, OCBC  #ngkoksong2023 #unitedforourfuture </title>
+    <updated>2023-08-20T01:58:33+00:00</updated>
+    <content>Testimonial for Ng Kok Song By Tjio Kay Loen Former Assistant General Manager, OCBC  #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269217997858901266" rel="alternate"/>
+    <published>2023-08-20T01:58:33+00:00</published>
   </entry>
 </feed>
