@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-20T06:13:40+00:00</updated>
+  <updated>2023-08-20T08:06:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7268682672099200257</id>
-    <title>Wonderful conversations with the minds of tomorrow 💬 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG</title>
-    <updated>2023-08-18T15:21:09+00:00</updated>
-    <content>Wonderful conversations with the minds of tomorrow 💬 #Tharman #TharmanShanmugaratnam #fyp #tiktokSG</content>
-    <link href="https://tiktok.com/@tharman.sg/video/7268682672099200257" rel="alternate"/>
-    <published>2023-08-18T15:21:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7268834274122517761</id>
     <title>The President has to be independent-minded, have a steady hand, and be able to work with the government of the day. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>Tharman’s call to youth: be impatient for change, be dissatisfied when you think things are not right, but more important than that, be impatient to participate, to initiate and to lead. 📍Halogen Foundation 20th Anniversary Gala Dinner #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7269283745193118977" rel="alternate"/>
     <published>2023-08-20T06:13:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7269312917345012994</id>
+    <title>Mustakem on Tharman's role in his journey to recovery, raising a family, and becoming a role model to others #Tharman #TharmanShanmugaratnam #RespectForAllSG </title>
+    <updated>2023-08-20T08:06:53+00:00</updated>
+    <content>Mustakem on Tharman's role in his journey to recovery, raising a family, and becoming a role model to others #Tharman #TharmanShanmugaratnam #RespectForAllSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7269312917345012994" rel="alternate"/>
+    <published>2023-08-20T08:06:53+00:00</published>
   </entry>
 </feed>
