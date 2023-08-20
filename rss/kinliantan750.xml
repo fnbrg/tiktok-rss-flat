@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-20T14:05:57+00:00</updated>
+  <updated>2023-08-20T19:18:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7269094466244398337</id>
-    <title>Simon Yeo said. I have been following Mr Tan’s FB posts for quite a while now. His posts are always candid, direct and genuine. To me, this reflects his personality.  Although he stays in a landed housing and has a car, he often takes public transport to </title>
-    <updated>2023-08-19T17:59:10+00:00</updated>
-    <content>Simon Yeo said. I have been following Mr Tan’s FB posts for quite a while now. His posts are always candid, direct and genuine. To me, this reflects his personality.  Although he stays in a landed housing and has a car, he often takes public transport to mingle and interact with ordinary people. Such is his humble character. Some may think a candidate has to behave ‘presidential’ and has the ‘say’ but to me, more importantly is the right heart to serve. Despite his earlier election loss, he is standing for election one more time because he is concerned that should Mr George Goh disqualify, the people would be deprived of a chance to elect an independent president.  Standing for an election the second time is not easy, as he personally has to walk the ground and encounters all sorts of response from Singaporeans, especially those which are negative. Yet , he persists on because of his principles. This shows he has a moral compass that guides his actions.</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7269094466244398337" rel="alternate"/>
-    <published>2023-08-19T17:59:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7269100426660695298</id>
     <title>Gazy talks sense #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
@@ -91,5 +83,13 @@
     <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
     <link href="https://tiktok.com/@kinliantan750/video/7269405461881883906" rel="alternate"/>
     <published>2023-08-20T14:05:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7269486016124275970</id>
+    <title>Bring back trust.   Give us hope. Let's make the futures bright for current generation. </title>
+    <updated>2023-08-20T19:18:38+00:00</updated>
+    <content>Bring back trust.   Give us hope. Let's make the futures bright for current generation. </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7269486016124275970" rel="alternate"/>
+    <published>2023-08-20T19:18:38+00:00</published>
   </entry>
 </feed>
