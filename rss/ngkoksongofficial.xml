@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-21T12:32:43+00:00</updated>
+  <updated>2023-08-21T13:26:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269299213513559314</id>
-    <title>I loved at my job at the GIC too much because it was a job that brought out the best in me. I found meaning in it because I was not working for the shareholders of Goldman Sachs. I was working to build up the reserves for the people of Singapore. Now I wa</title>
-    <updated>2023-08-20T07:13:41+00:00</updated>
-    <content>I loved at my job at the GIC too much because it was a job that brought out the best in me. I found meaning in it because I was not working for the shareholders of Goldman Sachs. I was working to build up the reserves for the people of Singapore. Now I want to help safeguard these reserves as President.  When you have a job that brings out the best in you and benefits others, that is good work. Consider asking yourself, what is it that brings out the best in you?  #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269299213513559314" rel="alternate"/>
-    <published>2023-08-20T07:13:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269313776560655634</id>
     <title>Some friends heard about the two bookends of my career which I shared at a @Mothership interview, and asked to read them. The first was a testimonial from my school teacher when I graduated from Montfort School. The second was a letter from PM Lee Hsien L</title>
@@ -91,5 +83,13 @@
     <content>As President, I will work with the government for the people. The role of the president is not to make trouble for the government as it will render our nation dysfunctional. We must stay united for our future, while keeping the people at heart. #unitedforourfuture #ngkoksong2023 </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269752509667839239" rel="alternate"/>
     <published>2023-08-21T12:32:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269766258608835858</id>
+    <title>Singapore is a little red dot. But we are internationally recognised because of our exceptionalism in political and social stability! We cannot take these for granted.  As President, I will use my experience to safeguard this stability. I want to honour o</title>
+    <updated>2023-08-21T13:26:01+00:00</updated>
+    <content>Singapore is a little red dot. But we are internationally recognised because of our exceptionalism in political and social stability! We cannot take these for granted.  As President, I will use my experience to safeguard this stability. I want to honour our founding fathers and the Merdeka generation — people who have built Singapore for all our future generations. We must not let what we built up be squandered. #ngkoksong2023 #unitedforourfuture #singapore #singaporetiktok #leekuanyew </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269766258608835858" rel="alternate"/>
+    <published>2023-08-21T13:26:01+00:00</published>
   </entry>
 </feed>
