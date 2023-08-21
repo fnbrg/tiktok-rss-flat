@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-21T02:26:47+00:00</updated>
+  <updated>2023-08-21T04:13:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269035265530858759</id>
-    <title>True happiness comes from caring for others. When I was at GIC, I derived happiness from contributing to the welfare of Singaporeans. So whatever you do, consider asking yourself ‘how can I contribute to the happiness and welfare of another person?’  Acts</title>
-    <updated>2023-08-19T14:09:25+00:00</updated>
-    <content>True happiness comes from caring for others. When I was at GIC, I derived happiness from contributing to the welfare of Singaporeans. So whatever you do, consider asking yourself ‘how can I contribute to the happiness and welfare of another person?’  Acts of kindness and generosity expand your being. But when you are self centred, you contract into your ego. You have to understand this through your experiences in life ❤️  #ngkoksong2023 #unitedforourfuture #lifehacks #adulting #happiness </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269035265530858759" rel="alternate"/>
-    <published>2023-08-19T14:09:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269201802032205063</id>
     <title>Philanthropy is not just the giving of money. Companies in Singapore could do more to promote this idea of structured volunteerism. It means establishing a way for employees to contribute to community work.  Encourage staff to go down to the ground and do</title>
@@ -91,5 +83,13 @@
     <content>The role of the president should evolve with our experience. Our youth are increasingly involved in advocacy and the community. I think the president will be able to unite our country better if he or she evolves to fit the needs of the people too.  I want to teach our youths to be financially literate and help all of us alleviate our stress. Sybil is a huge advocate for the arts and people with special needs. We both will be able to uplift Singaporeans. It will be our honour to be given that chance. #unitedforourfuture #ngkoksong2023</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269596362491038994" rel="alternate"/>
     <published>2023-08-21T02:26:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269623871387487506</id>
+    <title>Love is the greatest gift I have received from life. My mother’s love inspired me to study hard and win a bursary so I would never see her cry again. My late wife Patricia taught me about unconditional love in our 33 years of marriage. When she passed, I </title>
+    <updated>2023-08-21T04:13:31+00:00</updated>
+    <content>Love is the greatest gift I have received from life. My mother’s love inspired me to study hard and win a bursary so I would never see her cry again. My late wife Patricia taught me about unconditional love in our 33 years of marriage. When she passed, I became a single dad. I learned more about love as I played the roles of mother and father to my youngest daughter. After 14 years of being single, Sybil walked into my life to bless me with newfound love. Thanks to her, I am still learning so much and I am thankful to have her as my equal partner in this journey. I want to give back to Singapore for all the love it has given me. It would be the greatest honour of my life. #ngkoksong2023 #unitedforourfuture #love #family #lifelessons </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269623871387487506" rel="alternate"/>
+    <published>2023-08-21T04:13:31+00:00</published>
   </entry>
 </feed>
