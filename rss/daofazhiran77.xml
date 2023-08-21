@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@daofazhiran77</id>
   <title>daofazhiran77 TikTok</title>
-  <updated>2023-08-20T14:35:37+00:00</updated>
+  <updated>2023-08-21T06:46:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from daofazhiran77</subtitle>
-  <entry>
-    <id>https://tiktok.com/@daofazhiran77/video/7268523117746605314</id>
-    <title>No Title</title>
-    <updated>2023-08-18T05:02:00+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@daofazhiran77/video/7268523117746605314" rel="alternate"/>
-    <published>2023-08-18T05:02:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@daofazhiran77/video/7269361035860036866</id>
-    <title>#小说 </title>
-    <updated>2023-08-20T11:13:36+00:00</updated>
-    <content>#小说 </content>
-    <link href="https://tiktok.com/@daofazhiran77/video/7269361035860036866" rel="alternate"/>
-    <published>2023-08-20T11:13:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@daofazhiran77/video/7269361337896029441</id>
-    <title>#小说 </title>
-    <updated>2023-08-20T11:14:56+00:00</updated>
-    <content>#小说 </content>
-    <link href="https://tiktok.com/@daofazhiran77/video/7269361337896029441" rel="alternate"/>
-    <published>2023-08-20T11:14:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@daofazhiran77/video/7269361847218834690</id>
     <title>#小说 </title>
@@ -91,5 +67,29 @@
     <content>#小说</content>
     <link href="https://tiktok.com/@daofazhiran77/video/7269413098572877058" rel="alternate"/>
     <published>2023-08-20T14:35:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@daofazhiran77/video/7269662334468017410</id>
+    <title>#小说 </title>
+    <updated>2023-08-21T06:42:47+00:00</updated>
+    <content>#小说 </content>
+    <link href="https://tiktok.com/@daofazhiran77/video/7269662334468017410" rel="alternate"/>
+    <published>2023-08-21T06:42:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@daofazhiran77/video/7269662893581372673</id>
+    <title>#小说 </title>
+    <updated>2023-08-21T06:45:00+00:00</updated>
+    <content>#小说 </content>
+    <link href="https://tiktok.com/@daofazhiran77/video/7269662893581372673" rel="alternate"/>
+    <published>2023-08-21T06:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@daofazhiran77/video/7269663196451966210</id>
+    <title>#小说 </title>
+    <updated>2023-08-21T06:46:07+00:00</updated>
+    <content>#小说 </content>
+    <link href="https://tiktok.com/@daofazhiran77/video/7269663196451966210" rel="alternate"/>
+    <published>2023-08-21T06:46:07+00:00</published>
   </entry>
 </feed>
