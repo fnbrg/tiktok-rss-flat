@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-21T07:13:42+00:00</updated>
+  <updated>2023-08-21T11:17:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269201802032205063</id>
-    <title>Philanthropy is not just the giving of money. Companies in Singapore could do more to promote this idea of structured volunteerism. It means establishing a way for employees to contribute to community work.  Encourage staff to go down to the ground and do</title>
-    <updated>2023-08-20T00:55:48+00:00</updated>
-    <content>Philanthropy is not just the giving of money. Companies in Singapore could do more to promote this idea of structured volunteerism. It means establishing a way for employees to contribute to community work.  Encourage staff to go down to the ground and do simple things such as distributing food to the poor. It doesn’t cost a lot of money but it costs time. So the leadership of these organisations must set an example. 🙌 #ngkoksong2023 #unitedforourfuture #adulting #happiness #love </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269201802032205063" rel="alternate"/>
-    <published>2023-08-20T00:55:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269217997858901266</id>
-    <title>Testimonial for Ng Kok Song By Tjio Kay Loen Former Assistant General Manager, OCBC  #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-20T01:58:33+00:00</updated>
-    <content>Testimonial for Ng Kok Song By Tjio Kay Loen Former Assistant General Manager, OCBC  #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269217997858901266" rel="alternate"/>
-    <published>2023-08-20T01:58:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269249056851987719</id>
     <title>Stepping into the markets after receiving my Certificate of Eligibility felt like a dream. When I was a kid, I spent most of time helping my dad at the fish market. Now I’m running to be your elected President. My dream has always been to be able to serve</title>
@@ -91,5 +75,21 @@
     <content>I am so happy to share my list of Proposer, Seconder and Assenters who will be backing my bid to be nominated as a presidential candidate tomorrow. As promised, they are all people of high "heart power" who care deeply about Singapore and Singaporeans. I am most grateful for their support. #ngkoksong2023 #unitedforourfuture</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269670302831955208" rel="alternate"/>
     <published>2023-08-21T07:13:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269705575326371090</id>
+    <title>Opened up to Reginald and Dawn from @thefinancialcoconut to share the strategies and risks I took to safeguard Singapore's reserves and what I wish to champion for our nation. Beyond finance, I unveil the impact of my meditation practice on my leadership </title>
+    <updated>2023-08-21T09:30:34+00:00</updated>
+    <content>Opened up to Reginald and Dawn from @thefinancialcoconut to share the strategies and risks I took to safeguard Singapore's reserves and what I wish to champion for our nation. Beyond finance, I unveil the impact of my meditation practice on my leadership journey. Give it a listen on their platforms! #ngkoksong2023 #unitedforourfuture</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269705575326371090" rel="alternate"/>
+    <published>2023-08-21T09:30:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269733181136424210</id>
+    <title>Love is the greatest gift I have received from life. My mother’s love inspired me to study hard and win a bursary so I would never see her cry again. My late wife Patricia taught me about unconditional love in our 33 years of marriage. When she passed, I </title>
+    <updated>2023-08-21T11:17:42+00:00</updated>
+    <content>Love is the greatest gift I have received from life. My mother’s love inspired me to study hard and win a bursary so I would never see her cry again. My late wife Patricia taught me about unconditional love in our 33 years of marriage. When she passed, I became a single dad. I learned more about love as I played the roles of mother and father to my youngest daughter. After 14 years of being single, Sybil walked into my life to bless me with newfound love. Thanks to her, I am still learning so much and I am thankful to have her as my equal partner in this journey. I want to give back to Singapore for all the love it has given me. It would be the greatest honour of my life. #ngkoksong2023 #unitedforourfuture #family #lovewins #nostalgia </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269733181136424210" rel="alternate"/>
+    <published>2023-08-21T11:17:42+00:00</published>
   </entry>
 </feed>
