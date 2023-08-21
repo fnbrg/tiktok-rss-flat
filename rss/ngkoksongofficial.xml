@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-20T11:54:11+00:00</updated>
+  <updated>2023-08-21T00:10:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7268983712849628424</id>
-    <title>The only country in the world that GIC does not invest in is Singapore. In my time as Group CIO I made numerous international business networks with key appointment holders. I will be able to do do you proud on the global stage. #ngkoksong2023 #unitedforo</title>
-    <updated>2023-08-19T10:49:21+00:00</updated>
-    <content>The only country in the world that GIC does not invest in is Singapore. In my time as Group CIO I made numerous international business networks with key appointment holders. I will be able to do do you proud on the global stage. #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7268983712849628424" rel="alternate"/>
-    <published>2023-08-19T10:49:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269006468064595208</id>
     <title>The elected president needs to have the right experience and knowledge of how our economy is related to the global economy. This will ensure the president knows how to make a judgment call when it comes to safeguarding the reserves. #ngkoksong2023 #united</title>
@@ -91,5 +83,13 @@
     <content>Sybil spoke to @Mothership to share her personal stories. Sybil is a rather private person but she hopes for more people to understand her better. She talks about our relationship, her mum, and her philanthropy! Can’t give too much away as this is her story to tell. Stay tuned for the interview out soon! Thank you for being by my side through this journey. #ngkoksong2023 #unitedforourfuture #womenoftiktok #womenempowerment #womenpower </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269371512803626248" rel="alternate"/>
     <published>2023-08-20T11:54:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269561132229152018</id>
+    <title>My story is one of hope. I had to give up a scholarship to study overseas, because we were poor and I had to look after my family. My dreams came true when I got myself a bursary. It was my only way out of poverty and I had to work for the government. Tha</title>
+    <updated>2023-08-21T00:10:12+00:00</updated>
+    <content>My story is one of hope. I had to give up a scholarship to study overseas, because we were poor and I had to look after my family. My dreams came true when I got myself a bursary. It was my only way out of poverty and I had to work for the government. That was how I ended up at MAS and then GIC. I took so much pride in my work because it made me happy. I was able to contribute to growing the reserves for Singapore too. I want to inspire all of you to never give up on your hopes and dreams. I will safeguard your hopes and dreams as your president. Thank you Singapore for everything. #ngkoksong2023 #unitedforourfuture #family #love #dreamscometrue </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269561132229152018" rel="alternate"/>
+    <published>2023-08-21T00:10:12+00:00</published>
   </entry>
 </feed>
