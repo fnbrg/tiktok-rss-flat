@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-21T10:22:26+00:00</updated>
+  <updated>2023-08-21T12:41:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7269401981054176514</id>
-    <title>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage @Mothership @AsiaOne @RedwireSG @Red Dot United @CNA @Cyrus @Jimjym @Iciclemeltz </title>
-    <updated>2023-08-20T13:52:29+00:00</updated>
-    <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage @Mothership @AsiaOne @RedwireSG @Red Dot United @CNA @Cyrus @Jimjym @Iciclemeltz </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7269401981054176514" rel="alternate"/>
-    <published>2023-08-20T13:52:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7269405461881883906</id>
-    <title>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
-    <updated>2023-08-20T14:05:57+00:00</updated>
-    <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7269405461881883906" rel="alternate"/>
-    <published>2023-08-20T14:05:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7269486016124275970</id>
     <title>Bring back trust.   Give us hope. Let's make the futures bright for current generation. </title>
@@ -91,5 +75,21 @@
     <content>Tan Kin Lian Visits  Chong Pang TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage @Mothership @AsiaOne @RedwireSG @Red Dot United @CNA @sytan1973 @kimleejudy @andrewang541 @Jason fans @Anthony Oh @Ben Fong </content>
     <link href="https://tiktok.com/@kinliantan750/video/7269718939523927298" rel="alternate"/>
     <published>2023-08-21T10:22:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7269737164496178434</id>
+    <title>TAN KIN LIAN Independent president for Singapore is a must. #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
+    <updated>2023-08-21T11:33:08+00:00</updated>
+    <content>TAN KIN LIAN Independent president for Singapore is a must. #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7269737164496178434" rel="alternate"/>
+    <published>2023-08-21T11:33:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7269754835094834434</id>
+    <title>No Title</title>
+    <updated>2023-08-21T12:41:45+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7269754835094834434" rel="alternate"/>
+    <published>2023-08-21T12:41:45+00:00</published>
   </entry>
 </feed>

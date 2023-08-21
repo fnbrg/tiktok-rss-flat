@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-21T11:17:42+00:00</updated>
+  <updated>2023-08-21T12:32:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269249056851987719</id>
-    <title>Stepping into the markets after receiving my Certificate of Eligibility felt like a dream. When I was a kid, I spent most of time helping my dad at the fish market. Now I’m running to be your elected President. My dream has always been to be able to serve</title>
-    <updated>2023-08-20T03:59:03+00:00</updated>
-    <content>Stepping into the markets after receiving my Certificate of Eligibility felt like a dream. When I was a kid, I spent most of time helping my dad at the fish market. Now I’m running to be your elected President. My dream has always been to be able to serve others. After working in the GIC for 45 years, serving the welfare of Singaporeans, I am honoured to be able to serve again. I will honour the hopes and dreams of our past, present and future generations. Thank you Singapore! #ngkoksong2023 #unitedforourfuture #dreamscometrue #lifegoals #goals </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269249056851987719" rel="alternate"/>
-    <published>2023-08-20T03:59:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269299213513559314</id>
     <title>I loved at my job at the GIC too much because it was a job that brought out the best in me. I found meaning in it because I was not working for the shareholders of Goldman Sachs. I was working to build up the reserves for the people of Singapore. Now I wa</title>
@@ -91,5 +83,13 @@
     <content>Love is the greatest gift I have received from life. My mother’s love inspired me to study hard and win a bursary so I would never see her cry again. My late wife Patricia taught me about unconditional love in our 33 years of marriage. When she passed, I became a single dad. I learned more about love as I played the roles of mother and father to my youngest daughter. After 14 years of being single, Sybil walked into my life to bless me with newfound love. Thanks to her, I am still learning so much and I am thankful to have her as my equal partner in this journey. I want to give back to Singapore for all the love it has given me. It would be the greatest honour of my life. #ngkoksong2023 #unitedforourfuture #family #lovewins #nostalgia </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269733181136424210" rel="alternate"/>
     <published>2023-08-21T11:17:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269752509667839239</id>
+    <title>As President, I will work with the government for the people. The role of the president is not to make trouble for the government as it will render our nation dysfunctional. We must stay united for our future, while keeping the people at heart. #unitedfor</title>
+    <updated>2023-08-21T12:32:43+00:00</updated>
+    <content>As President, I will work with the government for the people. The role of the president is not to make trouble for the government as it will render our nation dysfunctional. We must stay united for our future, while keeping the people at heart. #unitedforourfuture #ngkoksong2023 </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269752509667839239" rel="alternate"/>
+    <published>2023-08-21T12:32:43+00:00</published>
   </entry>
 </feed>
