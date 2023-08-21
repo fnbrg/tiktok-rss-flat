@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-21T00:10:12+00:00</updated>
+  <updated>2023-08-21T02:26:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269006468064595208</id>
-    <title>The elected president needs to have the right experience and knowledge of how our economy is related to the global economy. This will ensure the president knows how to make a judgment call when it comes to safeguarding the reserves. #ngkoksong2023 #united</title>
-    <updated>2023-08-19T12:17:40+00:00</updated>
-    <content>The elected president needs to have the right experience and knowledge of how our economy is related to the global economy. This will ensure the president knows how to make a judgment call when it comes to safeguarding the reserves. #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269006468064595208" rel="alternate"/>
-    <published>2023-08-19T12:17:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269035265530858759</id>
     <title>True happiness comes from caring for others. When I was at GIC, I derived happiness from contributing to the welfare of Singaporeans. So whatever you do, consider asking yourself ‘how can I contribute to the happiness and welfare of another person?’  Acts</title>
@@ -91,5 +83,13 @@
     <content>My story is one of hope. I had to give up a scholarship to study overseas, because we were poor and I had to look after my family. My dreams came true when I got myself a bursary. It was my only way out of poverty and I had to work for the government. That was how I ended up at MAS and then GIC. I took so much pride in my work because it made me happy. I was able to contribute to growing the reserves for Singapore too. I want to inspire all of you to never give up on your hopes and dreams. I will safeguard your hopes and dreams as your president. Thank you Singapore for everything. #ngkoksong2023 #unitedforourfuture #family #love #dreamscometrue </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7269561132229152018" rel="alternate"/>
     <published>2023-08-21T00:10:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7269596362491038994</id>
+    <title>The role of the president should evolve with our experience. Our youth are increasingly involved in advocacy and the community. I think the president will be able to unite our country better if he or she evolves to fit the needs of the people too.  I want</title>
+    <updated>2023-08-21T02:26:47+00:00</updated>
+    <content>The role of the president should evolve with our experience. Our youth are increasingly involved in advocacy and the community. I think the president will be able to unite our country better if he or she evolves to fit the needs of the people too.  I want to teach our youths to be financially literate and help all of us alleviate our stress. Sybil is a huge advocate for the arts and people with special needs. We both will be able to uplift Singaporeans. It will be our honour to be given that chance. #unitedforourfuture #ngkoksong2023</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7269596362491038994" rel="alternate"/>
+    <published>2023-08-21T02:26:47+00:00</published>
   </entry>
 </feed>
