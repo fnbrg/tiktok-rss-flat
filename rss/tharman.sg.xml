@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-21T13:25:51+00:00</updated>
+  <updated>2023-08-22T01:53:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7268960026092375314</id>
-    <title>Kamsinah Sadar, General Manager of charity Tasek Jurong, on Tharman creating a culture of respect on the ground. #Tharman #TharmanShanmugaratnam #RespectForAllSG </title>
-    <updated>2023-08-19T09:17:25+00:00</updated>
-    <content>Kamsinah Sadar, General Manager of charity Tasek Jurong, on Tharman creating a culture of respect on the ground. #Tharman #TharmanShanmugaratnam #RespectForAllSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7268960026092375314" rel="alternate"/>
-    <published>2023-08-19T09:17:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7269046904837721351</id>
-    <title>The friendships in Taman Jurong that will never leave my heart.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-19T14:54:34+00:00</updated>
-    <content>The friendships in Taman Jurong that will never leave my heart.  #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7269046904837721351" rel="alternate"/>
-    <published>2023-08-19T14:54:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7269206676622937345</id>
     <title>We have to give real chances to everyone who has made a mistake in life and wants to restart #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
@@ -91,5 +75,21 @@
     <content>The respect of our peers internationally doesn’t come automatically. You have to master the subject and work hard to build consensus.  #Tharman #TharmanShanmugaratnam </content>
     <link href="https://tiktok.com/@tharman.sg/video/7269766207543282962" rel="alternate"/>
     <published>2023-08-21T13:25:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7269937871258144001</id>
+    <title>We have to do more and do better to enable every person with special needs who is ready to work. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
+    <updated>2023-08-22T00:32:02+00:00</updated>
+    <content>We have to do more and do better to enable every person with special needs who is ready to work. #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7269937871258144001" rel="alternate"/>
+    <published>2023-08-22T00:32:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7269958956104043778</id>
+    <title>Respect for All: it’s for all of us to make it real. 📍Dialogue with Singapore Young Leaders #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
+    <updated>2023-08-22T01:53:51+00:00</updated>
+    <content>Respect for All: it’s for all of us to make it real. 📍Dialogue with Singapore Young Leaders #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7269958956104043778" rel="alternate"/>
+    <published>2023-08-22T01:53:51+00:00</published>
   </entry>
 </feed>
