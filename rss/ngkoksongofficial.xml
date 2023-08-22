@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-22T08:16:02+00:00</updated>
+  <updated>2023-08-22T10:17:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269596362491038994</id>
-    <title>The role of the president should evolve with our experience. Our youth are increasingly involved in advocacy and the community. I think the president will be able to unite our country better if he or she evolves to fit the needs of the people too.  I want</title>
-    <updated>2023-08-21T02:26:47+00:00</updated>
-    <content>The role of the president should evolve with our experience. Our youth are increasingly involved in advocacy and the community. I think the president will be able to unite our country better if he or she evolves to fit the needs of the people too.  I want to teach our youths to be financially literate and help all of us alleviate our stress. Sybil is a huge advocate for the arts and people with special needs. We both will be able to uplift Singaporeans. It will be our honour to be given that chance. #unitedforourfuture #ngkoksong2023</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269596362491038994" rel="alternate"/>
-    <published>2023-08-21T02:26:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269670302831955208</id>
     <title>I am so happy to share my list of Proposer, Seconder and Assenters who will be backing my bid to be nominated as a presidential candidate tomorrow. As promised, they are all people of high "heart power" who care deeply about Singapore and Singaporeans. I </title>
@@ -91,5 +83,13 @@
     <content>I am an independent candidate. I stepped up for the presidency because I want to give Singaporeans a choice. I have never been a part of any political party or the governing party. We need to consider that the ‘establishment’ covers a very wide spectrum. Religious and civic organisations are also part of the establishment. I have the competence and experience to be a stabilising check to the government. I want to work with the government for the people. #ngkoksong2023 #unitedforourfuture</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7270057460101139730" rel="alternate"/>
     <published>2023-08-22T08:16:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7270088672735743239</id>
+    <title>To safeguard the reserves of Singapore, you must have the right competence to make a good judgment call. From my years of experience at MAS and GIC, I know how the global financial system works. Being in the public sector for almost all my life, I am also</title>
+    <updated>2023-08-22T10:17:10+00:00</updated>
+    <content>To safeguard the reserves of Singapore, you must have the right competence to make a good judgment call. From my years of experience at MAS and GIC, I know how the global financial system works. Being in the public sector for almost all my life, I am also aware of who has the right character to be given key appointments. I will use all of my experience to safeguard our stability. #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7270088672735743239" rel="alternate"/>
+    <published>2023-08-22T10:17:10+00:00</published>
   </entry>
 </feed>
