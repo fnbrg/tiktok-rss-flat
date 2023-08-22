@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-22T10:17:10+00:00</updated>
+  <updated>2023-08-22T12:22:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269670302831955208</id>
-    <title>I am so happy to share my list of Proposer, Seconder and Assenters who will be backing my bid to be nominated as a presidential candidate tomorrow. As promised, they are all people of high "heart power" who care deeply about Singapore and Singaporeans. I </title>
-    <updated>2023-08-21T07:13:42+00:00</updated>
-    <content>I am so happy to share my list of Proposer, Seconder and Assenters who will be backing my bid to be nominated as a presidential candidate tomorrow. As promised, they are all people of high "heart power" who care deeply about Singapore and Singaporeans. I am most grateful for their support. #ngkoksong2023 #unitedforourfuture</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269670302831955208" rel="alternate"/>
-    <published>2023-08-21T07:13:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269705575326371090</id>
     <title>Opened up to Reginald and Dawn from @thefinancialcoconut to share the strategies and risks I took to safeguard Singapore's reserves and what I wish to champion for our nation. Beyond finance, I unveil the impact of my meditation practice on my leadership </title>
@@ -91,5 +83,13 @@
     <content>To safeguard the reserves of Singapore, you must have the right competence to make a good judgment call. From my years of experience at MAS and GIC, I know how the global financial system works. Being in the public sector for almost all my life, I am also aware of who has the right character to be given key appointments. I will use all of my experience to safeguard our stability. #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7270088672735743239" rel="alternate"/>
     <published>2023-08-22T10:17:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7270120848890055954</id>
+    <title>When I was still in the public service, There was also little risk of a bad government. I was happy in my dream job. Serving the people of Singapore, by growing our reserves strategically was meaningful work. At that stage of my life, that was the best wa</title>
+    <updated>2023-08-22T12:22:01+00:00</updated>
+    <content>When I was still in the public service, There was also little risk of a bad government. I was happy in my dream job. Serving the people of Singapore, by growing our reserves strategically was meaningful work. At that stage of my life, that was the best way I could contribute to Singapore. Now I want to safeguard the reserves I have helped to grow.  #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7270120848890055954" rel="alternate"/>
+    <published>2023-08-22T12:22:01+00:00</published>
   </entry>
 </feed>
