@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-22T01:53:51+00:00</updated>
+  <updated>2023-08-22T11:13:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7269206676622937345</id>
-    <title>We have to give real chances to everyone who has made a mistake in life and wants to restart #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </title>
-    <updated>2023-08-20T01:14:42+00:00</updated>
-    <content>We have to give real chances to everyone who has made a mistake in life and wants to restart #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7269206676622937345" rel="alternate"/>
-    <published>2023-08-20T01:14:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7269243340271504642</id>
     <title>Tharman brings clarity on the most complex challenges we face as a country - Thomas Chua, President of the Singapore Federation of Chinese Clan Associations (SFCCA). #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
@@ -91,5 +83,13 @@
     <content>Respect for All: it’s for all of us to make it real. 📍Dialogue with Singapore Young Leaders #Tharman #TharmanShanmugaratnam #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7269958956104043778" rel="alternate"/>
     <published>2023-08-22T01:53:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7270103168464325895</id>
+    <title>If I am fortunate enough to be elected, I will serve as a President for all. With all my heart. And with my full experience and capabilities - on the ground over more than two decades, nationally and internationally. Photos 1, 2, 4, 9 by Samuel He #Tharma</title>
+    <updated>2023-08-22T11:13:24+00:00</updated>
+    <content>If I am fortunate enough to be elected, I will serve as a President for all. With all my heart. And with my full experience and capabilities - on the ground over more than two decades, nationally and internationally. Photos 1, 2, 4, 9 by Samuel He #Tharman #TharmanShanmugaratnam </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7270103168464325895" rel="alternate"/>
+    <published>2023-08-22T11:13:24+00:00</published>
   </entry>
 </feed>
