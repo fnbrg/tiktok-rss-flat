@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-22T06:54:33+00:00</updated>
+  <updated>2023-08-22T08:16:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269561132229152018</id>
-    <title>My story is one of hope. I had to give up a scholarship to study overseas, because we were poor and I had to look after my family. My dreams came true when I got myself a bursary. It was my only way out of poverty and I had to work for the government. Tha</title>
-    <updated>2023-08-21T00:10:12+00:00</updated>
-    <content>My story is one of hope. I had to give up a scholarship to study overseas, because we were poor and I had to look after my family. My dreams came true when I got myself a bursary. It was my only way out of poverty and I had to work for the government. That was how I ended up at MAS and then GIC. I took so much pride in my work because it made me happy. I was able to contribute to growing the reserves for Singapore too. I want to inspire all of you to never give up on your hopes and dreams. I will safeguard your hopes and dreams as your president. Thank you Singapore for everything. #ngkoksong2023 #unitedforourfuture #family #love #dreamscometrue </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269561132229152018" rel="alternate"/>
-    <published>2023-08-21T00:10:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269596362491038994</id>
     <title>The role of the president should evolve with our experience. Our youth are increasingly involved in advocacy and the community. I think the president will be able to unite our country better if he or she evolves to fit the needs of the people too.  I want</title>
@@ -91,5 +83,13 @@
     <content>I am standing to be your president to protect our three treasures. I will ensure we are united for our future so that Singapore continues to be a beacon of light for the world. We might be of different races — Chinese, Malay, Indian, Eurasian &amp; Others. But we are all Singaporeans. Let us remember our common ground. #unitedforourfuture #ngkoksong2023 </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7270036458914843912" rel="alternate"/>
     <published>2023-08-22T06:54:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7270057460101139730</id>
+    <title>I am an independent candidate. I stepped up for the presidency because I want to give Singaporeans a choice. I have never been a part of any political party or the governing party. We need to consider that the ‘establishment’ covers a very wide spectrum. </title>
+    <updated>2023-08-22T08:16:02+00:00</updated>
+    <content>I am an independent candidate. I stepped up for the presidency because I want to give Singaporeans a choice. I have never been a part of any political party or the governing party. We need to consider that the ‘establishment’ covers a very wide spectrum. Religious and civic organisations are also part of the establishment. I have the competence and experience to be a stabilising check to the government. I want to work with the government for the people. #ngkoksong2023 #unitedforourfuture</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7270057460101139730" rel="alternate"/>
+    <published>2023-08-22T08:16:02+00:00</published>
   </entry>
 </feed>
