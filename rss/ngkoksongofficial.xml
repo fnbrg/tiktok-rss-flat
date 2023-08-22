@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-22T05:48:53+00:00</updated>
+  <updated>2023-08-22T06:54:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7269371512803626248</id>
-    <title>Sybil spoke to @Mothership to share her personal stories. Sybil is a rather private person but she hopes for more people to understand her better. She talks about our relationship, her mum, and her philanthropy! Can’t give too much away as this is her sto</title>
-    <updated>2023-08-20T11:54:11+00:00</updated>
-    <content>Sybil spoke to @Mothership to share her personal stories. Sybil is a rather private person but she hopes for more people to understand her better. She talks about our relationship, her mum, and her philanthropy! Can’t give too much away as this is her story to tell. Stay tuned for the interview out soon! Thank you for being by my side through this journey. #ngkoksong2023 #unitedforourfuture #womenoftiktok #womenempowerment #womenpower </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7269371512803626248" rel="alternate"/>
-    <published>2023-08-20T11:54:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7269561132229152018</id>
     <title>My story is one of hope. I had to give up a scholarship to study overseas, because we were poor and I had to look after my family. My dreams came true when I got myself a bursary. It was my only way out of poverty and I had to work for the government. Tha</title>
@@ -91,5 +83,13 @@
     <content>Last Saturday, I had the opportunity to have a discussion with these change-makers from the creative scene. They are all accomplished in their own fields and shared their thoughts on the future of our arts scene.  I am determined to encourage our youths to step into their passions without any fear of security or stability. I was so happy to have had this intimate session with them. I want to do more of these! #unitedforourfuture #ngkoksong2023</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7270019538987666696" rel="alternate"/>
     <published>2023-08-22T05:48:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7270036458914843912</id>
+    <title>I am standing to be your president to protect our three treasures. I will ensure we are united for our future so that Singapore continues to be a beacon of light for the world. We might be of different races — Chinese, Malay, Indian, Eurasian &amp; Others. Bu</title>
+    <updated>2023-08-22T06:54:33+00:00</updated>
+    <content>I am standing to be your president to protect our three treasures. I will ensure we are united for our future so that Singapore continues to be a beacon of light for the world. We might be of different races — Chinese, Malay, Indian, Eurasian &amp; Others. But we are all Singaporeans. Let us remember our common ground. #unitedforourfuture #ngkoksong2023 </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7270036458914843912" rel="alternate"/>
+    <published>2023-08-22T06:54:33+00:00</published>
   </entry>
 </feed>

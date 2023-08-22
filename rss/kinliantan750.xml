@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-22T06:19:24+00:00</updated>
+  <updated>2023-08-22T06:48:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7269847626101624065</id>
-    <title>As a hopeful president of Singapore, I remain resolute in my commitment to serve the people of this great nation. Despite any challenges or obstacles that may arise, I am steadfast in my determination to stand up for the needs and interests of all Singapo</title>
-    <updated>2023-08-21T18:41:50+00:00</updated>
-    <content>As a hopeful president of Singapore, I remain resolute in my commitment to serve the people of this great nation. Despite any challenges or obstacles that may arise, I am steadfast in my determination to stand up for the needs and interests of all Singaporeans. Whether through community outreach, or other means, I will work tirelessly to ensure that the voices of the people are heard and their concerns addressed. With your support, I am confident that we can build a brighter future for Singapore together. 🇸🇬🇸🇬 TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7269847626101624065" rel="alternate"/>
-    <published>2023-08-21T18:41:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7269900751663566082</id>
     <title>I totally reject AWARE’s allegations and insinuations that social media posts I have made “objectify” women.  I do not objectify women since I have many in my family. I have been happily married to my loving wife for nearly 50 years.  We have been faithfu</title>
@@ -91,5 +83,13 @@
     <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
     <link href="https://tiktok.com/@kinliantan750/video/7270027398098291970" rel="alternate"/>
     <published>2023-08-22T06:19:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7270034827737337090</id>
+    <title>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
+    <updated>2023-08-22T06:48:12+00:00</updated>
+    <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7270034827737337090" rel="alternate"/>
+    <published>2023-08-22T06:48:12+00:00</published>
   </entry>
 </feed>
