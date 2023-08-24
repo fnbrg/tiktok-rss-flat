@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@daofazhiran77</id>
   <title>daofazhiran77 TikTok</title>
-  <updated>2023-08-23T11:50:33+00:00</updated>
+  <updated>2023-08-24T07:02:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from daofazhiran77</subtitle>
-  <entry>
-    <id>https://tiktok.com/@daofazhiran77/video/7269663196451966210</id>
-    <title>#小说 </title>
-    <updated>2023-08-21T06:46:07+00:00</updated>
-    <content>#小说 </content>
-    <link href="https://tiktok.com/@daofazhiran77/video/7269663196451966210" rel="alternate"/>
-    <published>2023-08-21T06:46:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@daofazhiran77/video/7269691128507682050</id>
     <title>#小说 </title>
@@ -91,5 +83,13 @@
     <content>#小说 </content>
     <link href="https://tiktok.com/@daofazhiran77/video/7270483816668597506" rel="alternate"/>
     <published>2023-08-23T11:50:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@daofazhiran77/video/7270780774557830402</id>
+    <title>#小说 </title>
+    <updated>2023-08-24T07:02:52+00:00</updated>
+    <content>#小说 </content>
+    <link href="https://tiktok.com/@daofazhiran77/video/7270780774557830402" rel="alternate"/>
+    <published>2023-08-24T07:02:52+00:00</published>
   </entry>
 </feed>
