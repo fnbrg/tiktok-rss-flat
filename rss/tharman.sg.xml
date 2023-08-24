@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-24T01:49:16+00:00</updated>
+  <updated>2023-08-24T03:29:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7270131014826036482</id>
-    <title>Launching my campaign symbol 🍍 May good times roll! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #🍍 </title>
-    <updated>2023-08-22T13:01:29+00:00</updated>
-    <content>Launching my campaign symbol 🍍 May good times roll! #Tharman #TharmanShanmugaratnam #fyp #tiktokSG #🍍 </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7270131014826036482" rel="alternate"/>
-    <published>2023-08-22T13:01:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7270170192188067080</id>
     <title>Mr Chua shares aspirations for Mr Tharman, and what he has meant for people #Tharman #TharmanShanmugaratnam #RespectForAllSG</title>
@@ -91,5 +83,13 @@
     <content>We must remove the stigma from mental health issues #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #mentalhealth </content>
     <link href="https://tiktok.com/@tharman.sg/video/7270699949896060161" rel="alternate"/>
     <published>2023-08-24T01:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7270725821122317569</id>
+    <title>Ground-up energy and initiative in support of the elderly and disadvantaged at AMKSS Social Move Food Distribution cum Appreciation Day  #Tharman #TharmanShanmugaratnam #🍍 </title>
+    <updated>2023-08-24T03:29:39+00:00</updated>
+    <content>Ground-up energy and initiative in support of the elderly and disadvantaged at AMKSS Social Move Food Distribution cum Appreciation Day  #Tharman #TharmanShanmugaratnam #🍍 </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7270725821122317569" rel="alternate"/>
+    <published>2023-08-24T03:29:39+00:00</published>
   </entry>
 </feed>
