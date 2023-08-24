@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-23T15:40:52+00:00</updated>
+  <updated>2023-08-24T02:05:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7270057460101139730</id>
-    <title>I am an independent candidate. I stepped up for the presidency because I want to give Singaporeans a choice. I have never been a part of any political party or the governing party. We need to consider that the ‘establishment’ covers a very wide spectrum. </title>
-    <updated>2023-08-22T08:16:02+00:00</updated>
-    <content>I am an independent candidate. I stepped up for the presidency because I want to give Singaporeans a choice. I have never been a part of any political party or the governing party. We need to consider that the ‘establishment’ covers a very wide spectrum. Religious and civic organisations are also part of the establishment. I have the competence and experience to be a stabilising check to the government. I want to work with the government for the people. #ngkoksong2023 #unitedforourfuture</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7270057460101139730" rel="alternate"/>
-    <published>2023-08-22T08:16:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7270088672735743239</id>
     <title>To safeguard the reserves of Singapore, you must have the right competence to make a good judgment call. From my years of experience at MAS and GIC, I know how the global financial system works. Being in the public sector for almost all my life, I am also</title>
@@ -91,5 +83,13 @@
     <content>I’m not going to lie, I love playing Mahjong! 😂 Like many of you, I watched my parents play and was intrigued by the strategy it took to master the game. It wasn’t about betting. You have to master memory and observation to strategically plan your move every round. Part of it involves some aspect of risk.  If you’re good at Mahjong, use your interest to develop into life skills! I am sure many of you have what it takes. To bridge the gap in our youth’s financial literacy, we can consider fun ways to educate ourselves! #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7270543173926014215" rel="alternate"/>
     <published>2023-08-23T15:40:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7270704198767987975</id>
+    <title>The first place I went to after my nomination, was Kangkar (Hougang). When my son pointed out the exact spot we used to live in, I was overwhelmed with gratitude and emotions. I had to give up my scholarship to study overseas as my father lost his voice a</title>
+    <updated>2023-08-24T02:05:44+00:00</updated>
+    <content>The first place I went to after my nomination, was Kangkar (Hougang). When my son pointed out the exact spot we used to live in, I was overwhelmed with gratitude and emotions. I had to give up my scholarship to study overseas as my father lost his voice and could not work. I studied with a local bursary and secured a job in the government to support my family and lift them out of poverty.  I want every Singaporean to know that they can make it in life too. I was just a poor boy from Kangkar. Now, I’m running to be your President. I want to inspire others who don’t have a fair start in life, to never give up on their hopes and dreams. #unitedforourfuture #ngkoksong2023 </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7270704198767987975" rel="alternate"/>
+    <published>2023-08-24T02:05:44+00:00</published>
   </entry>
 </feed>
