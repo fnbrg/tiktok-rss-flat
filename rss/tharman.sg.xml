@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-25T05:03:00+00:00</updated>
+  <updated>2023-08-25T12:41:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7270554954069314817</id>
-    <title>"He's what my friends call an unscripted personality" - Hassan Ahmad, Special Adviser to Humanity Matters, on Tharman #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</title>
-    <updated>2023-08-23T16:26:36+00:00</updated>
-    <content>"He's what my friends call an unscripted personality" - Hassan Ahmad, Special Adviser to Humanity Matters, on Tharman #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</content>
-    <link href="https://tiktok.com/@tharman.sg/video/7270554954069314817" rel="alternate"/>
-    <published>2023-08-23T16:26:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7270699949896060161</id>
     <title>We must remove the stigma from mental health issues #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #mentalhealth </title>
@@ -91,5 +83,13 @@
     <content>📍Journeyed to the East for a visit at the multi-faith Loyang Tua Pek Kong Temple It enshrines deities from Taoism, Buddhism, Hinduism and other traditions.  #Tharman #TharmanShanmugaratnam #🍍</content>
     <link href="https://tiktok.com/@tharman.sg/video/7271120945983589634" rel="alternate"/>
     <published>2023-08-25T05:03:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7271239051104242962</id>
+    <title>A fair and better society is about all of us.  It is about the respect and friendship we extend to each other. Regardless of our backgrounds and educational achievements. Regardless of race and religion, or any other differences.  It is about listening to</title>
+    <updated>2023-08-25T12:41:12+00:00</updated>
+    <content>A fair and better society is about all of us.  It is about the respect and friendship we extend to each other. Regardless of our backgrounds and educational achievements. Regardless of race and religion, or any other differences.  It is about listening to every voice and every heart.  It’s about 𝗥𝗲𝘀𝗽𝗲𝗰𝘁 𝗳𝗼𝗿 𝗔𝗹𝗹. #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7271239051104242962" rel="alternate"/>
+    <published>2023-08-25T12:41:12+00:00</published>
   </entry>
 </feed>
