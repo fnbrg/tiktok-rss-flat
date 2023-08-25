@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-25T02:02:30+00:00</updated>
+  <updated>2023-08-25T05:12:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7270734025835171090</id>
-    <title>After my morning visit to the market today, Max was waiting for me as usual. He is such a good boy and he always gives us his full time and attention. He even understands Teochew! I am always so happy to see him waiting when I open my door! Now, I’m heade</title>
-    <updated>2023-08-24T04:01:29+00:00</updated>
-    <content>After my morning visit to the market today, Max was waiting for me as usual. He is such a good boy and he always gives us his full time and attention. He even understands Teochew! I am always so happy to see him waiting when I open my door! Now, I’m headed off to meet all of you at these sessions! ❤️ ABC Brickworks Market and Food Centre Time: 12:30pm - 1:30pm Chomp Chomp Food Centre Time: 7:00pm - 8:00pm #unitedforourfuture #ngkoksong2023 #catsoftiktok #catlovers #cats </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7270734025835171090" rel="alternate"/>
-    <published>2023-08-24T04:01:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7270784209151659272</id>
     <title>This week I officially started my campaign to be your elected President. I will protect our reserves, the integrity of our public administration and our unity. I have never belonged to any political party and I am well placed to unite us. I humbly ask you</title>
@@ -91,5 +83,13 @@
     <content>Too Kiasi already lah! Singapore is not operating at its full potential yet because we have a culture of being too cautious. I think we can be more creative and adventurous to take some risk. I hold the idea of fun very close to my heart. I want to encourage fun ways for our youths to educate themselves! This will ultimately help us be more competitive and prosperous.#ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7271074452161482002" rel="alternate"/>
     <published>2023-08-25T02:02:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7271123441485450514</id>
+    <title>am standing as a true non-partisan Presidential candidate and I have never had any affiliation with political parties. I will be able to discharge my duties without fear or favour. I will be able to serve all Singaporeans in their best interests while wor</title>
+    <updated>2023-08-25T05:12:36+00:00</updated>
+    <content>am standing as a true non-partisan Presidential candidate and I have never had any affiliation with political parties. I will be able to discharge my duties without fear or favour. I will be able to serve all Singaporeans in their best interests while working with the government. The people of Singapore needs someone who is familiar with the machinery of the government yet is non-partisan. I am that person. #unitedforourfuture #ngkoksong2023  🖐🏽❤️ Vote For Me</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7271123441485450514" rel="alternate"/>
+    <published>2023-08-25T05:12:36+00:00</published>
   </entry>
 </feed>

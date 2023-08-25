@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-25T02:53:48+00:00</updated>
+  <updated>2023-08-25T05:03:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7270509789862448386</id>
-    <title>A spirit of warmth and friendship at Fo Guang Shan. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
-    <updated>2023-08-23T13:31:19+00:00</updated>
-    <content>A spirit of warmth and friendship at Fo Guang Shan. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7270509789862448386" rel="alternate"/>
-    <published>2023-08-23T13:31:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7270554954069314817</id>
     <title>"He's what my friends call an unscripted personality" - Hassan Ahmad, Special Adviser to Humanity Matters, on Tharman #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</title>
@@ -91,5 +83,13 @@
     <content>I intend to support initiatives on the ground, to uplift every group facing disadvantage #Tharman #TharmanShanmugaratnam #🍍</content>
     <link href="https://tiktok.com/@tharman.sg/video/7271087666257579266" rel="alternate"/>
     <published>2023-08-25T02:53:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7271120945983589634</id>
+    <title>📍Journeyed to the East for a visit at the multi-faith Loyang Tua Pek Kong Temple It enshrines deities from Taoism, Buddhism, Hinduism and other traditions.  #Tharman #TharmanShanmugaratnam #🍍</title>
+    <updated>2023-08-25T05:03:00+00:00</updated>
+    <content>📍Journeyed to the East for a visit at the multi-faith Loyang Tua Pek Kong Temple It enshrines deities from Taoism, Buddhism, Hinduism and other traditions.  #Tharman #TharmanShanmugaratnam #🍍</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7271120945983589634" rel="alternate"/>
+    <published>2023-08-25T05:03:00+00:00</published>
   </entry>
 </feed>
