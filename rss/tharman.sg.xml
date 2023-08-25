@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-24T16:15:41+00:00</updated>
+  <updated>2023-08-25T02:53:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7270487272896711938</id>
-    <title>Mr Koh on Tharman being like a friend to all #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </title>
-    <updated>2023-08-23T12:03:57+00:00</updated>
-    <content>Mr Koh on Tharman being like a friend to all #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7270487272896711938" rel="alternate"/>
-    <published>2023-08-23T12:03:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7270509789862448386</id>
     <title>A spirit of warmth and friendship at Fo Guang Shan. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>We will go through ups and downs. But we are still a unique place, where we can work together to make the future better for all. Video credit: @CNA  #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7270923225616370946" rel="alternate"/>
     <published>2023-08-24T16:15:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7271087666257579266</id>
+    <title>I intend to support initiatives on the ground, to uplift every group facing disadvantage #Tharman #TharmanShanmugaratnam #🍍</title>
+    <updated>2023-08-25T02:53:48+00:00</updated>
+    <content>I intend to support initiatives on the ground, to uplift every group facing disadvantage #Tharman #TharmanShanmugaratnam #🍍</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7271087666257579266" rel="alternate"/>
+    <published>2023-08-25T02:53:48+00:00</published>
   </entry>
 </feed>
