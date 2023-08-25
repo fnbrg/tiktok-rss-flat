@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-25T05:12:36+00:00</updated>
+  <updated>2023-08-25T07:00:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7270784209151659272</id>
-    <title>This week I officially started my campaign to be your elected President. I will protect our reserves, the integrity of our public administration and our unity. I have never belonged to any political party and I am well placed to unite us. I humbly ask you</title>
-    <updated>2023-08-24T07:16:11+00:00</updated>
-    <content>This week I officially started my campaign to be your elected President. I will protect our reserves, the integrity of our public administration and our unity. I have never belonged to any political party and I am well placed to unite us. I humbly ask you, my fellow Singaporeans to choose me as your President. I will work for you. 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7270784209151659272" rel="alternate"/>
-    <published>2023-08-24T07:16:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7270797525706231048</id>
     <title>I went to Montfort School in Kangkar, now Hougang. I received three gifts from my school that shaped the rest of my life. I received: 🖐🏼A good and balanced education 🖐🏼A deep conviction to do good work 🖐🏼Meeting my beautiful wife, Patricia These were the </title>
@@ -91,5 +83,13 @@
     <content>am standing as a true non-partisan Presidential candidate and I have never had any affiliation with political parties. I will be able to discharge my duties without fear or favour. I will be able to serve all Singaporeans in their best interests while working with the government. The people of Singapore needs someone who is familiar with the machinery of the government yet is non-partisan. I am that person. #unitedforourfuture #ngkoksong2023  🖐🏽❤️ Vote For Me</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7271123441485450514" rel="alternate"/>
     <published>2023-08-25T05:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7271151362652523783</id>
+    <title>I was given the opportunity to share with the leaders of Taman Bacaan my gratitude to the Malay and Muslim communities for the backing of Salleh, Ameer, Hamid as my assenters. Taman Bacaan and I had also talked about the idea of building more interracial </title>
+    <updated>2023-08-25T07:00:56+00:00</updated>
+    <content>I was given the opportunity to share with the leaders of Taman Bacaan my gratitude to the Malay and Muslim communities for the backing of Salleh, Ameer, Hamid as my assenters. Taman Bacaan and I had also talked about the idea of building more interracial help so that we can all be more invested in each other's communities and that is crucial for our long-term stability. They also talked about the deep kindness they want to see in Singapore. I felt the force of it. Thank you, Taman Bacaan! #ngkoksong2023 #unitedforourfuture  🖐🏽❤️ Vote for Me </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7271151362652523783" rel="alternate"/>
+    <published>2023-08-25T07:00:56+00:00</published>
   </entry>
 </feed>
