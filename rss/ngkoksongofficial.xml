@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-26T13:20:33+00:00</updated>
+  <updated>2023-08-26T14:11:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271276394787654920</id>
-    <title>I am focusing my campaign efforts on social media because I believe it is the most effective way to reach all of you. I find it important to make sure my messaging is aligned with our youths and current society. Through this process I’ve also picked up so</title>
-    <updated>2023-08-25T15:06:07+00:00</updated>
-    <content>I am focusing my campaign efforts on social media because I believe it is the most effective way to reach all of you. I find it important to make sure my messaging is aligned with our youths and current society. Through this process I’ve also picked up some TikTok tricks from my young social media team 😂. I hear some concerns of missing out on reaching the older audience.  Fret not, I am doing as much walkabouts as I can, to meet them face to face. It is important to be sustainable. I want to be a President that is able to connect to the future of our country — our youths. I believe my strategy has allowed me to hear their fears, hopes and dreams the best way possible. And I am thankful. ❤️ #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271276394787654920" rel="alternate"/>
-    <published>2023-08-25T15:06:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271291268209200392</id>
     <title>No walkabouts today but I was certainly kept busy. Visited SPH Media this morning for a filming session at The Straits Times newsroom with fellow candidate Tharman, but I won't spoil what it was about. Keep a lookout for the video soon!  I also invited Je</title>
@@ -91,5 +83,13 @@
     <content>I am standing for the presidency as a non-partisan candidate. My whole life, I have worked to be responsible for my family and the people of Singapore.  This year, I stepped up for the presidency because I believe more transparency is needed in the role of the Presidency. I will ensure our financial, social and administrative treasures are safeguarded without fear or favour.  I will be the president for the people. #unitedforourfuture #ngkoksong2023  🖐🏽❤️ Vote For Me </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7271620272225062152" rel="alternate"/>
     <published>2023-08-26T13:20:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7271633434794003720</id>
+    <title>When it comes to drawing on our reserves, there is a misconception that the smaller the sum, the easier it is for the President to approve it. That may not always be the case. The president has to be competent enough to know what is the situation we’re de</title>
+    <updated>2023-08-26T14:11:37+00:00</updated>
+    <content>When it comes to drawing on our reserves, there is a misconception that the smaller the sum, the easier it is for the President to approve it. That may not always be the case. The president has to be competent enough to know what is the situation we’re dealing with. In times of crises, a larger than proposed sum may be needed to ensure the survival of Singapore. If we do not act forcefully when needed, we risk losing our jobs and lives. I have enough expertise to make sure the best judgment call is made whenever our reserves are touched. I will make the decision that is best for Singapore. #ngkoksong2023 #unitedforourfuture 🖐🏼❤️ Vote For Me</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7271633434794003720" rel="alternate"/>
+    <published>2023-08-26T14:11:37+00:00</published>
   </entry>
 </feed>
