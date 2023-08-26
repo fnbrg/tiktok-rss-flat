@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-26T04:54:25+00:00</updated>
+  <updated>2023-08-26T09:12:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7270761536115821826</id>
-    <title>A lively and thoughtful dialogue with Singapore Buddhist Federation and The Singapore Buddhist Lodge 📍Kong Meng San Phor Kark See Monastery #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
-    <updated>2023-08-24T05:48:13+00:00</updated>
-    <content>A lively and thoughtful dialogue with Singapore Buddhist Federation and The Singapore Buddhist Lodge 📍Kong Meng San Phor Kark See Monastery #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7270761536115821826" rel="alternate"/>
-    <published>2023-08-24T05:48:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7270797511227411714</id>
     <title>🍍 Rolling into Toa Payoh #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
@@ -91,5 +83,13 @@
     <content>🍍 Rolling along in Amoy Street Food Centre #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7271489833359527170" rel="alternate"/>
     <published>2023-08-26T04:54:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7271556246757510402</id>
+    <title>Mervin wants to play a bigger role in the support system around him, to help the next generation of youth overcome difficult backgrounds #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </title>
+    <updated>2023-08-26T09:12:07+00:00</updated>
+    <content>Mervin wants to play a bigger role in the support system around him, to help the next generation of youth overcome difficult backgrounds #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7271556246757510402" rel="alternate"/>
+    <published>2023-08-26T09:12:07+00:00</published>
   </entry>
 </feed>
