@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-26T04:58:35+00:00</updated>
+  <updated>2023-08-26T08:05:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271074452161482002</id>
-    <title>Too Kiasi already lah! Singapore is not operating at its full potential yet because we have a culture of being too cautious. I think we can be more creative and adventurous to take some risk. I hold the idea of fun very close to my heart. I want to encour</title>
-    <updated>2023-08-25T02:02:30+00:00</updated>
-    <content>Too Kiasi already lah! Singapore is not operating at its full potential yet because we have a culture of being too cautious. I think we can be more creative and adventurous to take some risk. I hold the idea of fun very close to my heart. I want to encourage fun ways for our youths to educate themselves! This will ultimately help us be more competitive and prosperous.#ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271074452161482002" rel="alternate"/>
-    <published>2023-08-25T02:02:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271123441485450514</id>
     <title>am standing as a true non-partisan Presidential candidate and I have never had any affiliation with political parties. I will be able to discharge my duties without fear or favour. I will be able to serve all Singaporeans in their best interests while wor</title>
@@ -91,5 +83,13 @@
     <content>Let's rise above over identifying with just our race or religion! My symbol of the ❤️ in 🖐🏼 means that we may be of different faiths or beliefs, yet when we go deep, we all meet at our common humanity. I have learned so much from different communities. Interfaith sharing helps us see our common identity. We are one country, one people. #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7271490911593417992" rel="alternate"/>
     <published>2023-08-26T04:58:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7271539140422798600</id>
+    <title>My dear Singaporeans, I have chose to keep my campaign online in order to be sustainable and maximise my reach to our youths. Please share the following message to your family, friends and loved ones so they know me too 🖐🏼❤️ I ask for your vote for three </title>
+    <updated>2023-08-26T08:05:43+00:00</updated>
+    <content>My dear Singaporeans, I have chose to keep my campaign online in order to be sustainable and maximise my reach to our youths. Please share the following message to your family, friends and loved ones so they know me too 🖐🏼❤️ I ask for your vote for three reasons. First, I am an independent candidate. I do not belong to any political party. I will work with everyone, regardless of political affiliation, to serve the best interests of Singapore. Second, I spent 45 years in public service at MAS and GIC in building our reserves and I will protect it. I will also safeguard the integrity of key appointments in the public service. Third, I have extensive experience working with government leaders and corporate CEOs. I will do Singapore proud on the international stage.  Together, we can build a better and kinder Singapore. #ngkoksong2023 #unitedforourfuture  🖐🏾❤️ Vote for Me</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7271539140422798600" rel="alternate"/>
+    <published>2023-08-26T08:05:43+00:00</published>
   </entry>
 </feed>
