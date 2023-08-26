@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-26T10:32:49+00:00</updated>
+  <updated>2023-08-26T12:30:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271184150768438536</id>
-    <title>After an exciting interview today, I came back to rest before bringing Max for his daily walk. He looks forward to these walks and it is our special family time together. I’ll be headed out again soon to Kent Ridge Guild House for ‘Meet The Presidential C</title>
-    <updated>2023-08-25T09:08:10+00:00</updated>
-    <content>After an exciting interview today, I came back to rest before bringing Max for his daily walk. He looks forward to these walks and it is our special family time together. I’ll be headed out again soon to Kent Ridge Guild House for ‘Meet The Presidential Candidate Series’ hosted by Prof Walid! Many of you have asked me if this will be live-streamed. It won’t be but I will be sharing some of the insights on social media this week. I am excited to meet more amazing Singaporeans soon! #ngkoksong2023 #unitedforourfuture #catsoftiktok #cats #britishshorthaircat  🖐🏽❤️ Vote for Me </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271184150768438536" rel="alternate"/>
-    <published>2023-08-25T09:08:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271263141714021640</id>
     <title>I know Sybil to be a successful, accomplished and mature woman. She has seen life and has been through enough experiences to develop her own values. She adds so much more dimension and perspective into how I view things. I was single for 14 years after my</title>
@@ -91,5 +83,13 @@
     <content>I want to make financial literacy accessible to everyone. This will help us uplift our overall wealth without leaving anyone out. When I was young, before I joined the MAS, I knew nothing about bonds or stocks. I was too poor to afford a radio or TV to keep up with the news. Today, many disadvantaged youths do not have the access to financial education. It is not something we teach in schools either.  I want to be the president that shares my knowledge and teaches our youths very important life skills. Financial literacy, meditation and public speaking may or may not directly solve their problems. But it will better equip them to face the challenges in life. That is the change I will bring as your president. #ngkoksong2023 #unitedforourfuture #finance #adulting #lifehacks  🖐🏼❤️ Vote For Me</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7271577041915596039" rel="alternate"/>
     <published>2023-08-26T10:32:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7271607301063200007</id>
+    <title>Happy International Dog Day! ❤️ I've actually been saving this very special video with Cotton, and here it is! 🐶👨🏼‍🦳 My family casually filmed this for fun when I made the decision with them that I would want to run for president and serve Singapore! It w</title>
+    <updated>2023-08-26T12:30:14+00:00</updated>
+    <content>Happy International Dog Day! ❤️ I've actually been saving this very special video with Cotton, and here it is! 🐶👨🏼‍🦳 My family casually filmed this for fun when I made the decision with them that I would want to run for president and serve Singapore! It was a private and personal video. Now looking at this, it makes me so happy that we have actually put my dream into action and that voting day is just next week ! Vote for me! 🖐🏽❤️</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7271607301063200007" rel="alternate"/>
+    <published>2023-08-26T12:30:14+00:00</published>
   </entry>
 </feed>
