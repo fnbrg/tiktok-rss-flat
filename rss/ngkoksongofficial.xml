@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-26T12:30:14+00:00</updated>
+  <updated>2023-08-26T13:20:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271263141714021640</id>
-    <title>I know Sybil to be a successful, accomplished and mature woman. She has seen life and has been through enough experiences to develop her own values. She adds so much more dimension and perspective into how I view things. I was single for 14 years after my</title>
-    <updated>2023-08-25T14:14:41+00:00</updated>
-    <content>I know Sybil to be a successful, accomplished and mature woman. She has seen life and has been through enough experiences to develop her own values. She adds so much more dimension and perspective into how I view things. I was single for 14 years after my wife Patricia passed of cancer. When I met Sybil, I was amazed by her beauty, brains and character. She celebrates strong women in all that she does, and I could not be prouder to call her my partner. ❤️ #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271263141714021640" rel="alternate"/>
-    <published>2023-08-25T14:14:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271276394787654920</id>
     <title>I am focusing my campaign efforts on social media because I believe it is the most effective way to reach all of you. I find it important to make sure my messaging is aligned with our youths and current society. Through this process I’ve also picked up so</title>
@@ -91,5 +83,13 @@
     <content>Happy International Dog Day! ❤️ I've actually been saving this very special video with Cotton, and here it is! 🐶👨🏼‍🦳 My family casually filmed this for fun when I made the decision with them that I would want to run for president and serve Singapore! It was a private and personal video. Now looking at this, it makes me so happy that we have actually put my dream into action and that voting day is just next week ! Vote for me! 🖐🏽❤️</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7271607301063200007" rel="alternate"/>
     <published>2023-08-26T12:30:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7271620272225062152</id>
+    <title>I am standing for the presidency as a non-partisan candidate. My whole life, I have worked to be responsible for my family and the people of Singapore.  This year, I stepped up for the presidency because I believe more transparency is needed in the role o</title>
+    <updated>2023-08-26T13:20:33+00:00</updated>
+    <content>I am standing for the presidency as a non-partisan candidate. My whole life, I have worked to be responsible for my family and the people of Singapore.  This year, I stepped up for the presidency because I believe more transparency is needed in the role of the Presidency. I will ensure our financial, social and administrative treasures are safeguarded without fear or favour.  I will be the president for the people. #unitedforourfuture #ngkoksong2023  🖐🏽❤️ Vote For Me </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7271620272225062152" rel="alternate"/>
+    <published>2023-08-26T13:20:33+00:00</published>
   </entry>
 </feed>
