@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-26T04:48:45+00:00</updated>
+  <updated>2023-08-26T06:15:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7271261003487235329</id>
-    <title>Thank you @Yak Chin Hua  TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage</title>
-    <updated>2023-08-25T14:06:24+00:00</updated>
-    <content>Thank you @Yak Chin Hua  TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7271261003487235329" rel="alternate"/>
-    <published>2023-08-25T14:06:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7271262682135776513</id>
-    <title>No Title</title>
-    <updated>2023-08-25T14:12:54+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7271262682135776513" rel="alternate"/>
-    <published>2023-08-25T14:12:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7271292116523912450</id>
     <title>I AM A PROBLEM SOLVER! </title>
@@ -91,5 +75,21 @@
     <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
     <link href="https://tiktok.com/@kinliantan750/video/7271488372458179841" rel="alternate"/>
     <published>2023-08-26T04:48:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7271508295922306305</id>
+    <title>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
+    <updated>2023-08-26T06:06:04+00:00</updated>
+    <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7271508295922306305" rel="alternate"/>
+    <published>2023-08-26T06:06:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7271510789872160001</id>
+    <title>I Learned from what I went through I never regret.  TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
+    <updated>2023-08-26T06:15:42+00:00</updated>
+    <content>I Learned from what I went through I never regret.  TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7271510789872160001" rel="alternate"/>
+    <published>2023-08-26T06:15:42+00:00</published>
   </entry>
 </feed>
