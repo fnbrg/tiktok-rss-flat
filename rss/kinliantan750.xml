@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-08-26T09:32:23+00:00</updated>
+  <updated>2023-08-26T14:55:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7271310828186373377</id>
-    <title>My lovely wife 🥰  TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
-    <updated>2023-08-25T17:19:46+00:00</updated>
-    <content>My lovely wife 🥰  TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7271310828186373377" rel="alternate"/>
-    <published>2023-08-25T17:19:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7271357054994976001</id>
     <title>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
@@ -91,5 +83,13 @@
     <content>Madam Tay (Mrs Tan Kin Lian) joins the walkabout for the 1st time TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
     <link href="https://tiktok.com/@kinliantan750/video/7271561472319245569" rel="alternate"/>
     <published>2023-08-26T09:32:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7271644724631555330</id>
+    <title>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </title>
+    <updated>2023-08-26T14:55:28+00:00</updated>
+    <content>TAN KIN LIAN #fyp #singaporeelection2023 #PresidentialCandidate #foryourpage #singaporePresidentialCandidate #singaporeelections #singapore #tankinlian #foryoupage </content>
+    <link href="https://tiktok.com/@kinliantan750/video/7271644724631555330" rel="alternate"/>
+    <published>2023-08-26T14:55:28+00:00</published>
   </entry>
 </feed>
