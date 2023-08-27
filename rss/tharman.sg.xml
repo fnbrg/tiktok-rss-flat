@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-26T09:12:07+00:00</updated>
+  <updated>2023-08-27T01:39:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7270797511227411714</id>
-    <title>🍍 Rolling into Toa Payoh #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
-    <updated>2023-08-24T08:07:49+00:00</updated>
-    <content>🍍 Rolling into Toa Payoh #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7270797511227411714" rel="alternate"/>
-    <published>2023-08-24T08:07:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7270850776128441601</id>
     <title>Mr Saadon on the kind of person Tharman has always been #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</title>
@@ -91,5 +83,13 @@
     <content>Mervin wants to play a bigger role in the support system around him, to help the next generation of youth overcome difficult backgrounds #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </content>
     <link href="https://tiktok.com/@tharman.sg/video/7271556246757510402" rel="alternate"/>
     <published>2023-08-26T09:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7271810621174205698</id>
+    <title>I innocently disclosed that I was having a Cranberry drink, and they were also one of my favourite bands. The whole squad broke spontaneously into singing Zombie. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #thecranberries </title>
+    <updated>2023-08-27T01:39:18+00:00</updated>
+    <content>I innocently disclosed that I was having a Cranberry drink, and they were also one of my favourite bands. The whole squad broke spontaneously into singing Zombie. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #thecranberries </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7271810621174205698" rel="alternate"/>
+    <published>2023-08-27T01:39:18+00:00</published>
   </entry>
 </feed>
