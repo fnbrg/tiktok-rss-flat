@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-28T02:05:05+00:00</updated>
+  <updated>2023-08-28T09:52:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7271450055322635521</id>
-    <title>How not to take a wefie with your spouse... 📍NUSS Dialogue with Singapore Young Entrepreneurs #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #wefie </title>
-    <updated>2023-08-26T02:20:03+00:00</updated>
-    <content>How not to take a wefie with your spouse... 📍NUSS Dialogue with Singapore Young Entrepreneurs #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #wefie </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7271450055322635521" rel="alternate"/>
-    <published>2023-08-26T02:20:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7271489833359527170</id>
-    <title>🍍 Rolling along in Amoy Street Food Centre #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
-    <updated>2023-08-26T04:54:25+00:00</updated>
-    <content>🍍 Rolling along in Amoy Street Food Centre #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7271489833359527170" rel="alternate"/>
-    <published>2023-08-26T04:54:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7271556246757510402</id>
     <title>Mervin wants to play a bigger role in the support system around him, to help the next generation of youth overcome difficult backgrounds #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </title>
@@ -91,5 +75,21 @@
     <content>Huat’s up Lau Pa Sat 🍍 #Tharman #TharmanShanmugaratnam #🍍#fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7272188358087003393" rel="alternate"/>
     <published>2023-08-28T02:05:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7272245220060843265</id>
+    <title>🍍 Had a rolling time at Tiong Bahru Market, and wonderful that Jane bumped into a classmate from 55 years ago at St. Margaret's! #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
+    <updated>2023-08-28T05:45:44+00:00</updated>
+    <content>🍍 Had a rolling time at Tiong Bahru Market, and wonderful that Jane bumped into a classmate from 55 years ago at St. Margaret's! #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7272245220060843265" rel="alternate"/>
+    <published>2023-08-28T05:45:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7272308845865733378</id>
+    <title>He's humble. He's very well-spoken. He appreciates the arts and has a head for business. - Stephanie Esther Fam, a poet and theatre performer, on why she supports Tharman #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</title>
+    <updated>2023-08-28T09:52:36+00:00</updated>
+    <content>He's humble. He's very well-spoken. He appreciates the arts and has a head for business. - Stephanie Esther Fam, a poet and theatre performer, on why she supports Tharman #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7272308845865733378" rel="alternate"/>
+    <published>2023-08-28T09:52:36+00:00</published>
   </entry>
 </feed>
