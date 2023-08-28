@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-28T14:00:43+00:00</updated>
+  <updated>2023-08-28T14:46:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271894098217422088</id>
-    <title>As President, I want to bring businesses together to do philanthropy. I want to promote the idea of sharing, not giving. When you are able to give and care, it makes you a kinder person and fills you with joy. You’re benefiting as much as the receiver.  I</title>
-    <updated>2023-08-27T07:03:09+00:00</updated>
-    <content>As President, I want to bring businesses together to do philanthropy. I want to promote the idea of sharing, not giving. When you are able to give and care, it makes you a kinder person and fills you with joy. You’re benefiting as much as the receiver.  I am determined to foster this culture of giving time and resources to the less fortunate. This might include the migrant workers, the poor and the dying. We should consider structuring volunteerism within companies and organisations. We must remember to be a gracious society ❤️ #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote for Me</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271894098217422088" rel="alternate"/>
-    <published>2023-08-27T07:03:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271915714414447880</id>
     <title>It is critical that we honour the spirit of the Constitution. The President is a unifying figure. He or she should not be beholden to any political parties. I stand as a truly independent candidate with a heart-powered team. I am not backed by any parties</title>
@@ -91,5 +83,13 @@
     <content>Diversity is our strength. Don't let our differences divide us. Staying united is how we stay strong in the face of an uncertain future, and protecting that unity is a key role of the President. I want to be a President for all, a President who is not beholden to any political agenda, to rally our people around our common goals and shared dreams. Please, don't let partisanship pollute the Presidency. Help me safeguard our social fabric. Vote for me 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7272372802202766599" rel="alternate"/>
     <published>2023-08-28T14:00:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7272384642949451015</id>
+    <title>How can a candidate be independent if he is dependent on the support of opposition party leaders? Singaporeans are not so easily fooled. There is a real danger that he might be manipulated by political parties serving their own interests if elected. He ev</title>
+    <updated>2023-08-28T14:46:41+00:00</updated>
+    <content>How can a candidate be independent if he is dependent on the support of opposition party leaders? Singaporeans are not so easily fooled. There is a real danger that he might be manipulated by political parties serving their own interests if elected. He even suggested that they might be appointed to the Council of Presidential Advisers. This game of backseat politicking dishonours the office of the Presidency. Vote for me 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7272384642949451015" rel="alternate"/>
+    <published>2023-08-28T14:46:41+00:00</published>
   </entry>
 </feed>
