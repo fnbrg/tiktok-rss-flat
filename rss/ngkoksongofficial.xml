@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-28T14:46:41+00:00</updated>
+  <updated>2023-08-28T16:10:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271915714414447880</id>
-    <title>It is critical that we honour the spirit of the Constitution. The President is a unifying figure. He or she should not be beholden to any political parties. I stand as a truly independent candidate with a heart-powered team. I am not backed by any parties</title>
-    <updated>2023-08-27T08:27:02+00:00</updated>
-    <content>It is critical that we honour the spirit of the Constitution. The President is a unifying figure. He or she should not be beholden to any political parties. I stand as a truly independent candidate with a heart-powered team. I am not backed by any parties, but rather by my record of serving the people of Singapore.  I am driven by love from my family and the people I have met over my life, including the past few weeks. I will safeguard our national treasures based on the best interest of the people. In times of political or other crises, I will make the most objective judgment call. Thank you for standing with me. We stand United for our future. 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271915714414447880" rel="alternate"/>
-    <published>2023-08-27T08:27:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271941267670568200</id>
     <title>We must not allow this Presidential Election to become a proxy fight between the government endorsed candidate and the opposition endorsed candidate. This is dangerous and divisive. Save the party politics for the next General Election and do not let it p</title>
@@ -91,5 +83,13 @@
     <content>How can a candidate be independent if he is dependent on the support of opposition party leaders? Singaporeans are not so easily fooled. There is a real danger that he might be manipulated by political parties serving their own interests if elected. He even suggested that they might be appointed to the Council of Presidential Advisers. This game of backseat politicking dishonours the office of the Presidency. Vote for me 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7272384642949451015" rel="alternate"/>
     <published>2023-08-28T14:46:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7272406248706903314</id>
+    <title>In general, it is not my preference to campaign reactively and respond to every remark made by the other candidates. I would prefer to win on my own merits, rather than on the demerits of my opponents. But there is a line that must be drawn when it comes </title>
+    <updated>2023-08-28T16:10:31+00:00</updated>
+    <content>In general, it is not my preference to campaign reactively and respond to every remark made by the other candidates. I would prefer to win on my own merits, rather than on the demerits of my opponents. But there is a line that must be drawn when it comes to those attempting to confuse the electorate. We must be wary of those who make empty promises. This morning at Ayer Rajah Food Centre, I spoke to the media about why certain members of opposition parties coming forward to support Mr Tan Kin Lian does a disservice to Singaporeans and dishonours the office of the President. Private individuals have a right to support whichever candidate they prefer. However, it is plain to see that Mr Tan's supporters are making a coordinated effort to rouse up anti-Government sentiment. Their strategy has been to make populist promises he will not be able to keep. They speak of alleviating bread and butter problems that Singaporeans are facing. It is false to suggest this is something Mr Tan can meaningfully address as President. It is simply not the President's role to address policy matters and he will have no power to do so. It is deceptive and dishonest to pretend otherwise. At lunchtime, I visited Lau Pa Sat and met many young professionals who work in the CBD. I was grateful that my message of non-partisanship resonated so strongly with many of them. In the evening, together with the other candidates, I participated in a forum that was broadcast live on CNA and online. I hope my straightforward answers to the questions will help Singaporeans understand my credentials, intentions and character better so they can make an informed choice at the ballot box. Singaporeans are a savvy lot who are not easily fooled. May the best man win, come Polling Day. 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7272406248706903314" rel="alternate"/>
+    <published>2023-08-28T16:10:31+00:00</published>
   </entry>
 </feed>
