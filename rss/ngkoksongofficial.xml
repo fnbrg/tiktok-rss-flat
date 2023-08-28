@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-28T12:19:17+00:00</updated>
+  <updated>2023-08-28T14:00:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271881750270233864</id>
-    <title>Love is the greatest experience we can have in our lives. One of my fondest memories was the day I fell in love with my wife, Patricia, in school. We went on to share 33 years of love during our marriage. We stood by each other through thick and thin, esp</title>
-    <updated>2023-08-27T06:15:15+00:00</updated>
-    <content>Love is the greatest experience we can have in our lives. One of my fondest memories was the day I fell in love with my wife, Patricia, in school. We went on to share 33 years of love during our marriage. We stood by each other through thick and thin, especially during the bad times. When she was diagnosed with cancer, I took a year off from work to spend as much time as I could with her. Towards her last few days, she thanked me for loving her because she said it had helped her overcome her fear of death.  I had to take responsibility for her and my kids, as a single dad, after she passed. I had to step up. Now, I want to be responsible for the people of Singapore by standing to be the President. I love my country for all that it has provided me and my family. I want to inspire others to never lose hope too. #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote for Me</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271881750270233864" rel="alternate"/>
-    <published>2023-08-27T06:15:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7271894098217422088</id>
     <title>As President, I want to bring businesses together to do philanthropy. I want to promote the idea of sharing, not giving. When you are able to give and care, it makes you a kinder person and fills you with joy. You’re benefiting as much as the receiver.  I</title>
@@ -91,5 +83,13 @@
     <content>I will not stand for politicians making a mockery out of our Presidency. Since independence, Singapore has been recognised internationally for its exceptional political and social stability. Our founding leaders and our past generations have worked hard in unity to lift us out of poverty into a first-world country. It is critical now, more than ever, that our head of state is able to navigate Singapore through crises. The office must be respected and honoured. I stand as a non partisan candidate, not beholden to anyone. I will not be pressured by partisan interests. I want to serve the people of Singapore honourably. #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7272346659336555794" rel="alternate"/>
     <published>2023-08-28T12:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7272372802202766599</id>
+    <title>Diversity is our strength. Don't let our differences divide us. Staying united is how we stay strong in the face of an uncertain future, and protecting that unity is a key role of the President. I want to be a President for all, a President who is not beh</title>
+    <updated>2023-08-28T14:00:43+00:00</updated>
+    <content>Diversity is our strength. Don't let our differences divide us. Staying united is how we stay strong in the face of an uncertain future, and protecting that unity is a key role of the President. I want to be a President for all, a President who is not beholden to any political agenda, to rally our people around our common goals and shared dreams. Please, don't let partisanship pollute the Presidency. Help me safeguard our social fabric. Vote for me 🖐🏼❤️ #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7272372802202766599" rel="alternate"/>
+    <published>2023-08-28T14:00:43+00:00</published>
   </entry>
 </feed>
