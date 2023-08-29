@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-29T09:04:52+00:00</updated>
+  <updated>2023-08-29T12:02:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7271810621174205698</id>
-    <title>I innocently disclosed that I was having a Cranberry drink, and they were also one of my favourite bands. The whole squad broke spontaneously into singing Zombie. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #thecranberries </title>
-    <updated>2023-08-27T01:39:18+00:00</updated>
-    <content>I innocently disclosed that I was having a Cranberry drink, and they were also one of my favourite bands. The whole squad broke spontaneously into singing Zombie. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG #thecranberries </content>
-    <link href="https://tiktok.com/@tharman.sg/video/7271810621174205698" rel="alternate"/>
-    <published>2023-08-27T01:39:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7271946028260003073</id>
     <title>What Tharman's calligraphy reveals about his character and inner person - Prof Tan Siah Kwee, President of The Chinese Calligraphy Society of Singapore #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍 </title>
@@ -91,5 +83,13 @@
     <content>We have a lot more potential in each individual Singaporean than is often recognized. Including those who don’t start off as stars. Video credit: @CNA  #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7272667634204708097" rel="alternate"/>
     <published>2023-08-29T09:04:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7272713292773149954</id>
+    <title>Our greatest strength is that we are Singaporeans together. We must deepen our model of multiculturalism. And find common ground as views within our democracy become more diverse. Video credit: @CNA  #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </title>
+    <updated>2023-08-29T12:02:01+00:00</updated>
+    <content>Our greatest strength is that we are Singaporeans together. We must deepen our model of multiculturalism. And find common ground as views within our democracy become more diverse. Video credit: @CNA  #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7272713292773149954" rel="alternate"/>
+    <published>2023-08-29T12:02:01+00:00</published>
   </entry>
 </feed>
