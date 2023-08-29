@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-29T03:31:39+00:00</updated>
+  <updated>2023-08-29T06:48:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7271983392982453512</id>
-    <title>Statement by Salleh Marican on the need for the President to be non-partisan. #ngkoksong2023 #unitedforourfuture 🖐🏼❤️. </title>
-    <updated>2023-08-27T12:49:39+00:00</updated>
-    <content>Statement by Salleh Marican on the need for the President to be non-partisan. #ngkoksong2023 #unitedforourfuture 🖐🏼❤️. </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7271983392982453512" rel="alternate"/>
-    <published>2023-08-27T12:49:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7272036493357534471</id>
     <title>Never a dull day during campaign season! At Tampines Round Market in the morning, I spoke about the importance of ensuring the Elected President is not beholden to any political party. We cannot have a President who may be manipulated to serve the politic</title>
@@ -91,5 +83,13 @@
     <content>All of us have got certain gifts and skills. Good work is the kind of work that brings out the best in you, regardless of your background. I am thankful I did not heed advice to leave the GIC. My job gave me satisfaction because I was able to exploit my talent to benefit a greater good — the nation’s financial security. Now, I am ready to use my years of experience to joyfully serve the people of Singapore, as your elected President. I humbly ask for you to give me this chance, as the only non-partisan candidate. #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote For Me </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7272581769671609607" rel="alternate"/>
     <published>2023-08-29T03:31:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7272632514047397127</id>
+    <title>Message from Mr Ng Kok Song’s campaign team 🖐🏼❤️</title>
+    <updated>2023-08-29T06:48:31+00:00</updated>
+    <content>Message from Mr Ng Kok Song’s campaign team 🖐🏼❤️</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7272632514047397127" rel="alternate"/>
+    <published>2023-08-29T06:48:31+00:00</published>
   </entry>
 </feed>
