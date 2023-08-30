@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-30T12:32:55+00:00</updated>
+  <updated>2023-08-30T13:03:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7272651714140900626</id>
-    <title>Here’s a very personal interview I did a while back with @Mothership . I shared with them the 3 most important things in my life. I am thankful for my experiences in life. I took responsibility to lift my family out of poverty by winning myself a bursary.</title>
-    <updated>2023-08-29T08:03:03+00:00</updated>
-    <content>Here’s a very personal interview I did a while back with @Mothership . I shared with them the 3 most important things in my life. I am thankful for my experiences in life. I took responsibility to lift my family out of poverty by winning myself a bursary. When I was the GIC, I took responsibility for growing our reserves and navigating financial crises. When my wife was dying of cancer, I took responsibility to spend every day with her to make sure she knew she was loved. Now, I am ready to be responsible for the people of Singapore as your President. I want us to be United for our future. 🖐🏼❤️#ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7272651714140900626" rel="alternate"/>
-    <published>2023-08-29T08:03:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7272665870663535890</id>
     <title>The value of our reserves is strategically important and must be kept a secret. It is dangerous to suggest that the Government should reveal this information publicly, which would only benefit our enemies. This goes against our national interest and leave</title>
@@ -91,5 +83,13 @@
     <content>It’s been fun! Thank you Singapore 🇸🇬 Vote for me 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7273092346340723976" rel="alternate"/>
     <published>2023-08-30T12:32:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7273100263978798343</id>
+    <title>I would be humbled to be your president. Thank you for your trust in me. This is the greatest honour of my life. 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </title>
+    <updated>2023-08-30T13:03:40+00:00</updated>
+    <content>I would be humbled to be your president. Thank you for your trust in me. This is the greatest honour of my life. 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7273100263978798343" rel="alternate"/>
+    <published>2023-08-30T13:03:40+00:00</published>
   </entry>
 </feed>
