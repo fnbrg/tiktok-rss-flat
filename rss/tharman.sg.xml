@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-08-30T09:15:08+00:00</updated>
+  <updated>2023-08-30T11:09:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7272774261398441218</id>
-    <title>Mdm Kalaichelvi on how Tharman's unwavering support for her, and for her children, changed their lives #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</title>
-    <updated>2023-08-29T15:58:38+00:00</updated>
-    <content>Mdm Kalaichelvi on how Tharman's unwavering support for her, and for her children, changed their lives #Tharman #TharmanShanmugaratnam #RespectForAllSG #🍍</content>
-    <link href="https://tiktok.com/@tharman.sg/video/7272774261398441218" rel="alternate"/>
-    <published>2023-08-29T15:58:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7272781581377441026</id>
     <title>📍 Tharman's Townhall – Embracing Respect For All #Tharman #TharmanShanmugaratnam #🍍</title>
@@ -91,5 +83,13 @@
     <content>We must continue to pursue the freedoms that matter most to everyone. #Tharman #TharmanShanmugaratnam #🍍 #fyp #tiktokSG </content>
     <link href="https://tiktok.com/@tharman.sg/video/7273041368149150977" rel="alternate"/>
     <published>2023-08-30T09:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7273070707565792513</id>
+    <title>We realised by the end of the honeymoon, that if we could survive all that happened, we could survive anything in life together. But Sulawesi was a truly beautiful island. Full story here: bit.ly/honeymoonstory @Mothership  #Tharman #TharmanShanmugaratnam</title>
+    <updated>2023-08-30T11:09:01+00:00</updated>
+    <content>We realised by the end of the honeymoon, that if we could survive all that happened, we could survive anything in life together. But Sulawesi was a truly beautiful island. Full story here: bit.ly/honeymoonstory @Mothership  #Tharman #TharmanShanmugaratnam #🍍</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7273070707565792513" rel="alternate"/>
+    <published>2023-08-30T11:09:01+00:00</published>
   </entry>
 </feed>
