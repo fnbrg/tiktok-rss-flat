@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-08-30T11:00:05+00:00</updated>
+  <updated>2023-08-30T12:32:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7272632514047397127</id>
-    <title>Message from Mr Ng Kok Song’s campaign team 🖐🏼❤️</title>
-    <updated>2023-08-29T06:48:31+00:00</updated>
-    <content>Message from Mr Ng Kok Song’s campaign team 🖐🏼❤️</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7272632514047397127" rel="alternate"/>
-    <published>2023-08-29T06:48:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7272641399898639623</id>
-    <title>Leonard Cohen’s Anthem is one of my favourite songs. It reminds us that it is perfectly okay to be imperfect.  We must keep doing things that matter to us and trying our best. With experience and reflection, we improve. This is a very powerful life lesson</title>
-    <updated>2023-08-29T07:23:02+00:00</updated>
-    <content>Leonard Cohen’s Anthem is one of my favourite songs. It reminds us that it is perfectly okay to be imperfect.  We must keep doing things that matter to us and trying our best. With experience and reflection, we improve. This is a very powerful life lesson I hope to encourage everyone to hold on to. Through this campaign, I am learning so much from our youths and the power of social media. I am made aware of our diverse hopes, dreams and causes we all champion. I will continue to deepen my understanding so we develop a Singapore for all. #ngkoksong2023 #unitedforourfuture  Vote For Me  🖐🏼❤️</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7272641399898639623" rel="alternate"/>
-    <published>2023-08-29T07:23:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7272651714140900626</id>
     <title>Here’s a very personal interview I did a while back with @Mothership . I shared with them the 3 most important things in my life. I am thankful for my experiences in life. I took responsibility to lift my family out of poverty by winning myself a bursary.</title>
@@ -91,5 +75,21 @@
     <content>On the final day of the campaign, I paid a visit to Hougang Hainanese Village in the morning. I grew up in Hougang and it always brings back fond memories. I was glad to be able to make a stop at this nostalgic place. I was blessed to be able to visit Foo Hai Ch'an Monastery, hosted by Reverend Ming Yi. We discussed the benefits of meditation and the importance of inter faith and inter-racial collaboration. I presented a book entitled Common Ground to the Reverend, which commemorates a two-day event I organised in 2012 to bring together leaders from different faiths to find common ground in the practice of meditation. I also had the privilege of meditating together with the devotees in silence. I then made a stop at the Church of the Holy Family to say a short prayer. My church holds a special place in my heart. It is where I worship with my family. It is where I said goodbye to my late wife Patricia and delivered her eulogy. My final stop of the campaign is at Kopitam Square in Sengkang. One last chance to meet my fellow Singaporeans before Cooling-Off Day. I have given my very best for this contest. Thank you to each and every voter who plans to support me on Friday. #ngkoksong2023 #unitedforourfuture  🖐️❤️ Vote for Me</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7273068422915738898" rel="alternate"/>
     <published>2023-08-30T11:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7273088478001253650</id>
+    <title>I started my campaign at Kangkar, where I was born. I have ended it in Sengkang, near where I grew up.  This homecoming is my way of remembering my roots and expressing gratitude to the place I came from and the people who shaped me into who I am. I'm rea</title>
+    <updated>2023-08-30T12:17:55+00:00</updated>
+    <content>I started my campaign at Kangkar, where I was born. I have ended it in Sengkang, near where I grew up.  This homecoming is my way of remembering my roots and expressing gratitude to the place I came from and the people who shaped me into who I am. I'm ready to serve Singapore and Singaporeans. Please vote for me. #ngkoksong2023 #unitedforourfuture  🖐🏼❤️ Vote for Me </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7273088478001253650" rel="alternate"/>
+    <published>2023-08-30T12:17:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7273092346340723976</id>
+    <title>It’s been fun! Thank you Singapore 🇸🇬 Vote for me 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </title>
+    <updated>2023-08-30T12:32:55+00:00</updated>
+    <content>It’s been fun! Thank you Singapore 🇸🇬 Vote for me 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7273092346340723976" rel="alternate"/>
+    <published>2023-08-30T12:32:55+00:00</published>
   </entry>
 </feed>
