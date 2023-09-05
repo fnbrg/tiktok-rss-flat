@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-09-05T07:40:41+00:00</updated>
+  <updated>2023-09-05T09:48:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7272993724752334087</id>
-    <title>A loving Grandfather who never stops learning ❤️ #dance #votefortankinlian #dance #happy #family #fun </title>
-    <updated>2023-08-30T06:10:14+00:00</updated>
-    <content>A loving Grandfather who never stops learning ❤️ #dance #votefortankinlian #dance #happy #family #fun </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7272993724752334087" rel="alternate"/>
-    <published>2023-08-30T06:10:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7272994280501726482</id>
-    <title>Grandfather Advice with Tan Kin Lian! #tankinlian #advice #grandfather </title>
-    <updated>2023-08-30T06:12:23+00:00</updated>
-    <content>Grandfather Advice with Tan Kin Lian! #tankinlian #advice #grandfather </content>
-    <link href="https://tiktok.com/@kinliantan750/video/7272994280501726482" rel="alternate"/>
-    <published>2023-08-30T06:12:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7273111973909253384</id>
     <title>Tan Kin Lian’s Presidential Candidate Broadcast 2 #votefortankinlian </title>
@@ -91,5 +75,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@kinliantan750/video/7275243540240813319" rel="alternate"/>
     <published>2023-09-05T07:40:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7275260325161749768</id>
+    <title>No Title</title>
+    <updated>2023-09-05T08:45:48+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7275260325161749768" rel="alternate"/>
+    <published>2023-09-05T08:45:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7275276565523516680</id>
+    <title>No Title</title>
+    <updated>2023-09-05T09:48:47+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7275276565523516680" rel="alternate"/>
+    <published>2023-09-05T09:48:47+00:00</published>
   </entry>
 </feed>
