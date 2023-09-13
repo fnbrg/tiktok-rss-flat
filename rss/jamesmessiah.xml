@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jamesmessiah</id>
   <title>jamesmessiah TikTok</title>
-  <updated>2023-09-12T23:59:32+00:00</updated>
+  <updated>2023-09-13T02:46:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jamesmessiah</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jamesmessiah/video/7277602767546453250</id>
-    <title>Why did you guys hide those charges from the public?? How about my friendly challenge to keep the server of my country's gov safe?? #themessiah #anonymoushacker #singapore #fyp #singaporetiktok #jamesmessiah #jamesmessiahraj #hackersg #hacker #liars </title>
-    <updated>2023-09-11T16:15:42+00:00</updated>
-    <content>Why did you guys hide those charges from the public?? How about my friendly challenge to keep the server of my country's gov safe?? #themessiah #anonymoushacker #singapore #fyp #singaporetiktok #jamesmessiah #jamesmessiahraj #hackersg #hacker #liars </content>
-    <link href="https://tiktok.com/@jamesmessiah/video/7277602767546453250" rel="alternate"/>
-    <published>2023-09-11T16:15:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jamesmessiah/video/7277608994129087746</id>
     <title>Why was so many charges that include the ministry of information and communication, election board and much more hidden from the public! #liars #hacker #hackersg #jamesmessiahraj #jamesmessiah #singaporetiktok #fyp #singapore #anonymoushacker #themessiah </title>
@@ -91,5 +83,13 @@
     <content>You can choose to die for the truth or live like a coward, the choice is in ur hands  #hackersg #hacker #themessiah #anonymoushacker #jamesmessiah #singapore #fyp #singaporetiktok #jamesmessiahraj </content>
     <link href="https://tiktok.com/@jamesmessiah/video/7278093356163452162" rel="alternate"/>
     <published>2023-09-12T23:59:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jamesmessiah/video/7278136447515872514</id>
+    <title>Hello to all my brothers and sisters!!!! Updates! Let's take over this place.  #hackersg #hacker #anonymoushacker #themessiah #jamesmessiah #singapore #fyp #singaporetiktok #jamesmessiahraj </title>
+    <updated>2023-09-13T02:46:42+00:00</updated>
+    <content>Hello to all my brothers and sisters!!!! Updates! Let's take over this place.  #hackersg #hacker #anonymoushacker #themessiah #jamesmessiah #singapore #fyp #singaporetiktok #jamesmessiahraj </content>
+    <link href="https://tiktok.com/@jamesmessiah/video/7278136447515872514" rel="alternate"/>
+    <published>2023-09-13T02:46:42+00:00</published>
   </entry>
 </feed>
