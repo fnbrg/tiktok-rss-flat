@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jamesmessiah</id>
   <title>jamesmessiah TikTok</title>
-  <updated>2023-09-12T12:40:12+00:00</updated>
+  <updated>2023-09-12T23:59:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jamesmessiah</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jamesmessiah/video/7277497875641208065</id>
-    <title>Replying to @miminotty Ya very tired ...but still handsome #singapore #themessiah #anonymoushacker #fyp #singaporetiktok #jamesmessiah #jamesmessiahraj #hackersg #hacker #respectforever </title>
-    <updated>2023-09-11T09:28:41+00:00</updated>
-    <content>Replying to @miminotty Ya very tired ...but still handsome #singapore #themessiah #anonymoushacker #fyp #singaporetiktok #jamesmessiah #jamesmessiahraj #hackersg #hacker #respectforever </content>
-    <link href="https://tiktok.com/@jamesmessiah/video/7277497875641208065" rel="alternate"/>
-    <published>2023-09-11T09:28:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jamesmessiah/video/7277602767546453250</id>
     <title>Why did you guys hide those charges from the public?? How about my friendly challenge to keep the server of my country's gov safe?? #themessiah #anonymoushacker #singapore #fyp #singaporetiktok #jamesmessiah #jamesmessiahraj #hackersg #hacker #liars </title>
@@ -91,5 +83,13 @@
     <content>Replying to @pinacolada_012 I suffer from hyoerfocus Asperger's Syndrome. I am unable to sit down still and have conversations with ppl I just got to know. I really wish I could but I have this problem u know. so yea I hope u guys forgive me. #singaporetiktok #fyp #singapore #jamesmessiah #anonymoushacker #themessiah #themessiah #hacker #hackersg #aspergerssyndrome </content>
     <link href="https://tiktok.com/@jamesmessiah/video/7277918318068124930" rel="alternate"/>
     <published>2023-09-12T12:40:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jamesmessiah/video/7278093356163452162</id>
+    <title>You can choose to die for the truth or live like a coward, the choice is in ur hands  #hackersg #hacker #themessiah #anonymoushacker #jamesmessiah #singapore #fyp #singaporetiktok #jamesmessiahraj </title>
+    <updated>2023-09-12T23:59:32+00:00</updated>
+    <content>You can choose to die for the truth or live like a coward, the choice is in ur hands  #hackersg #hacker #themessiah #anonymoushacker #jamesmessiah #singapore #fyp #singaporetiktok #jamesmessiahraj </content>
+    <link href="https://tiktok.com/@jamesmessiah/video/7278093356163452162" rel="alternate"/>
+    <published>2023-09-12T23:59:32+00:00</published>
   </entry>
 </feed>
