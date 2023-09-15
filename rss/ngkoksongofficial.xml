@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-14T10:21:43+00:00</updated>
+  <updated>2023-09-15T10:59:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7273092346340723976</id>
-    <title>It’s been fun! Thank you Singapore 🇸🇬 Vote for me 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-30T12:32:55+00:00</updated>
-    <content>It’s been fun! Thank you Singapore 🇸🇬 Vote for me 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7273092346340723976" rel="alternate"/>
-    <published>2023-08-30T12:32:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7273100263978798343</id>
     <title>I would be humbled to be your president. Thank you for your trust in me. This is the greatest honour of my life. 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </title>
@@ -91,5 +83,13 @@
     <content>Had dinner with Ray Dalio. We discussed the international geopolitical situation, developments in China and the implications for global financial markets. </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7278624816460991762" rel="alternate"/>
     <published>2023-09-14T10:21:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7279005653350272263</id>
+    <title>Filming for the 20th anniversary of WMI today. When I founded WMI, Singapore needed an institute to help build / skill Asset Management and Private Bankers . Now, Singapore is a major global financial hub — we have come a long way! </title>
+    <updated>2023-09-15T10:59:35+00:00</updated>
+    <content>Filming for the 20th anniversary of WMI today. When I founded WMI, Singapore needed an institute to help build / skill Asset Management and Private Bankers . Now, Singapore is a major global financial hub — we have come a long way! </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7279005653350272263" rel="alternate"/>
+    <published>2023-09-15T10:59:35+00:00</published>
   </entry>
 </feed>
