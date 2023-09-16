@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-16T07:13:31+00:00</updated>
+  <updated>2023-09-16T10:28:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7273100263978798343</id>
-    <title>I would be humbled to be your president. Thank you for your trust in me. This is the greatest honour of my life. 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </title>
-    <updated>2023-08-30T13:03:40+00:00</updated>
-    <content>I would be humbled to be your president. Thank you for your trust in me. This is the greatest honour of my life. 🖐🏾❤️ #ngkoksong2023 #unitedforourfuture </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7273100263978798343" rel="alternate"/>
-    <published>2023-08-30T13:03:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7273107428214869266</id>
     <title>My fellow Singaporeans, we are going to the polls on Friday to choose our next President. The right to vote is a fundamental part of our democracy. Please make your voice heard and make your vote count.  Vote for me, because I am qualified, experienced an</title>
@@ -91,5 +83,13 @@
     <content>Sybil and I hosted Bhutan’s King Jigme Khesar Namgyel Wangchuck, who is here on an unofficial visit for brunch. We had a meaningful discussion on the role mindfulness carries within global leadership and the value of meditation. We then discussed global and regional economic challenges as well as Bhutan’s visions for the future.</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7279318484935281928" rel="alternate"/>
     <published>2023-09-16T07:13:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7279368850414636296</id>
+    <title>After a long day of meetings, we managed to tabao food from Tiong Bahru Food Centre. Guess which one is my favourite? </title>
+    <updated>2023-09-16T10:28:58+00:00</updated>
+    <content>After a long day of meetings, we managed to tabao food from Tiong Bahru Food Centre. Guess which one is my favourite? </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7279368850414636296" rel="alternate"/>
+    <published>2023-09-16T10:28:58+00:00</published>
   </entry>
 </feed>
