@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-16T10:28:58+00:00</updated>
+  <updated>2023-09-17T12:10:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7273107428214869266</id>
-    <title>My fellow Singaporeans, we are going to the polls on Friday to choose our next President. The right to vote is a fundamental part of our democracy. Please make your voice heard and make your vote count.  Vote for me, because I am qualified, experienced an</title>
-    <updated>2023-08-30T13:31:26+00:00</updated>
-    <content>My fellow Singaporeans, we are going to the polls on Friday to choose our next President. The right to vote is a fundamental part of our democracy. Please make your voice heard and make your vote count.  Vote for me, because I am qualified, experienced and trustworthy. Vote for me, because I will do you proud at home and abroad.  Vote for me, because the time has come to honour the spirit of the Constitution and choose a non-partisan President. #ngkoksong2023 #unitedforourfuture  🖐🏼❤️</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7273107428214869266" rel="alternate"/>
-    <published>2023-08-30T13:31:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7273113790072261896</id>
     <title>Thank you, Singapore! 🖐🏼❤️  Vote For Me #ngkoksong2023 #unitedforourfuture </title>
@@ -91,5 +83,13 @@
     <content>After a long day of meetings, we managed to tabao food from Tiong Bahru Food Centre. Guess which one is my favourite? </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7279368850414636296" rel="alternate"/>
     <published>2023-09-16T10:28:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7279766180502490376</id>
+    <title>I am a huge fan of all our hawker food and enjoyed all 3 dishes yesterday although I did eat more of the ngoh hiang! Today Sybil went to tapao for everyone from Tai Wah! Some of you remembered my all time fave is ta mee pok extra chili. What is your favou</title>
+    <updated>2023-09-17T12:10:47+00:00</updated>
+    <content>I am a huge fan of all our hawker food and enjoyed all 3 dishes yesterday although I did eat more of the ngoh hiang! Today Sybil went to tapao for everyone from Tai Wah! Some of you remembered my all time fave is ta mee pok extra chili. What is your favourite hawker food and where is it from?</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7279766180502490376" rel="alternate"/>
+    <published>2023-09-17T12:10:47+00:00</published>
   </entry>
 </feed>
