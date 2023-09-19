@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-09-18T21:01:05+00:00</updated>
+  <updated>2023-09-19T02:11:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7279638770318609671</id>
-    <title>No Title</title>
-    <updated>2023-09-17T03:56:23+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7279638770318609671" rel="alternate"/>
-    <published>2023-09-17T03:56:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7279638834856463634</id>
-    <title>No Title</title>
-    <updated>2023-09-17T03:56:39+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7279638834856463634" rel="alternate"/>
-    <published>2023-09-17T03:56:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7279639385610489106</id>
-    <title>No Title</title>
-    <updated>2023-09-17T03:58:48+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7279639385610489106" rel="alternate"/>
-    <published>2023-09-17T03:58:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7279706228542999815</id>
     <title>No Title</title>
@@ -91,5 +67,29 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@kinliantan750/video/7280273893107961096" rel="alternate"/>
     <published>2023-09-18T21:01:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7280341828430220562</id>
+    <title>No Title</title>
+    <updated>2023-09-19T01:24:37+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7280341828430220562" rel="alternate"/>
+    <published>2023-09-19T01:24:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7280342445311659272</id>
+    <title>No Title</title>
+    <updated>2023-09-19T01:27:01+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7280342445311659272" rel="alternate"/>
+    <published>2023-09-19T01:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7280354000350743826</id>
+    <title>No Title</title>
+    <updated>2023-09-19T02:11:51+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7280354000350743826" rel="alternate"/>
+    <published>2023-09-19T02:11:51+00:00</published>
   </entry>
 </feed>
