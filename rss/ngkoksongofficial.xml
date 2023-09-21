@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-20T00:00:54+00:00</updated>
+  <updated>2023-09-21T02:59:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7276434429524954376</id>
-    <title>I went from studying physics to working for the late Dr. Goh Keng Swee. I will be sharing more of my life experiences with you as we go along, hope it will be of some value ❤️ #finance #lifehacks #adulting #story #adayinmylife </title>
-    <updated>2023-09-08T12:41:54+00:00</updated>
-    <content>I went from studying physics to working for the late Dr. Goh Keng Swee. I will be sharing more of my life experiences with you as we go along, hope it will be of some value ❤️ #finance #lifehacks #adulting #story #adayinmylife </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7276434429524954376" rel="alternate"/>
-    <published>2023-09-08T12:41:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7277136161213107463</id>
     <title>Mistake + reflection = progress is similar to a principle of Pain + reflection = progress. Difficulties , challenges and even mistakes in life are learning opportunities. Our mistakes don’t define us — they refine us instead! </title>
@@ -91,5 +83,13 @@
     <content>So delighted last night to bump into George Yeo and his family at Porta Porta. </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7280691335173033224" rel="alternate"/>
     <published>2023-09-20T00:00:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7281108407933783314</id>
+    <title>Chatted with Max this morning about my plans for the day. How’s everyone doing today? ☀️🌧️ #britishshorthair #catsoftiktok #britishshorthaircat #catlover #adayinmylife </title>
+    <updated>2023-09-21T02:59:22+00:00</updated>
+    <content>Chatted with Max this morning about my plans for the day. How’s everyone doing today? ☀️🌧️ #britishshorthair #catsoftiktok #britishshorthaircat #catlover #adayinmylife </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7281108407933783314" rel="alternate"/>
+    <published>2023-09-21T02:59:22+00:00</published>
   </entry>
 </feed>
