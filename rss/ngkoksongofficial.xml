@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-21T07:27:19+00:00</updated>
+  <updated>2023-09-24T11:22:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7277458527004724498</id>
-    <title>Sadly, my first boss, Elizabeth Sam, passed on today. Only last month Elizabeth had consented to be my character referee for the Presidential   Election. I will  always treasure the memory of this marvellous lady. She gave me the big break in my investmen</title>
-    <updated>2023-09-11T06:55:57+00:00</updated>
-    <content>Sadly, my first boss, Elizabeth Sam, passed on today. Only last month Elizabeth had consented to be my character referee for the Presidential   Election. I will  always treasure the memory of this marvellous lady. She gave me the big break in my investment career. ❤️</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7277458527004724498" rel="alternate"/>
-    <published>2023-09-11T06:55:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7277791051283287304</id>
     <title>How is everyone feeling today? Yummy breakfast courtesy of Mama‘a friend who bought kuih kacang masin from her trip to Malaysia! Here’s a picture of me guarding papa’s food  — 🐱 #britishshorthair #catsoftiktok #cats #breakfast #foodtiktok </title>
@@ -91,5 +83,13 @@
     <content>Met my friend Catholic Archbishop Marco Tin Win from Mandalay, Myanmar. He shared with me his  dream of building a small meditation centre in the hills of Mandalay. Myanmar as a Buddhist country is steeped in the tradition of meditation but the Catholic Church had placed little emphasis on the interior life. Catholics have grown up in a Buddhist environment with a longing and capacity for silence and meditation. At the national level, the oeople have been going through a tough time with the unstable political situation and the Covid pandemic. Hence the urgent need for a place of silence to heal the trauma of war and conflict.  I agreed to lend my support for Bishop Marco’s worthwhile endeavour.</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7281177464334798087" rel="alternate"/>
     <published>2023-09-21T07:27:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7282351222437219592</id>
+    <title>We are deeply saddened by the loss of our friend Rico @cattos_ric0kori . I cherish the occasion when I could hold him and play with him just a few short weeks ago. We will miss you my friend ❤️</title>
+    <updated>2023-09-24T11:22:05+00:00</updated>
+    <content>We are deeply saddened by the loss of our friend Rico @cattos_ric0kori . I cherish the occasion when I could hold him and play with him just a few short weeks ago. We will miss you my friend ❤️</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7282351222437219592" rel="alternate"/>
+    <published>2023-09-24T11:22:05+00:00</published>
   </entry>
 </feed>
