@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-24T11:22:05+00:00</updated>
+  <updated>2023-09-25T10:45:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7277791051283287304</id>
-    <title>How is everyone feeling today? Yummy breakfast courtesy of Mama‘a friend who bought kuih kacang masin from her trip to Malaysia! Here’s a picture of me guarding papa’s food  — 🐱 #britishshorthair #catsoftiktok #cats #breakfast #foodtiktok </title>
-    <updated>2023-09-12T04:26:19+00:00</updated>
-    <content>How is everyone feeling today? Yummy breakfast courtesy of Mama‘a friend who bought kuih kacang masin from her trip to Malaysia! Here’s a picture of me guarding papa’s food  — 🐱 #britishshorthair #catsoftiktok #cats #breakfast #foodtiktok </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7277791051283287304" rel="alternate"/>
-    <published>2023-09-12T04:26:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7279005653350272263</id>
     <title>Filming for the 20th anniversary of WMI today. When I founded WMI, Singapore needed an institute to help build / skill Asset Management and Private Bankers . Now, Singapore is a major global financial hub — we have come a long way! </title>
@@ -91,5 +83,13 @@
     <content>We are deeply saddened by the loss of our friend Rico @cattos_ric0kori . I cherish the occasion when I could hold him and play with him just a few short weeks ago. We will miss you my friend ❤️</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7282351222437219592" rel="alternate"/>
     <published>2023-09-24T11:22:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7282712815041924359</id>
+    <title>It’s been quite some time since I last had Ah Fatt Fishball Noodle from Hong Lim. We got some for dinner yesterday and it was delicious! #food #foodtiktok #foodie #hawkerfood #sgfoodie </title>
+    <updated>2023-09-25T10:45:16+00:00</updated>
+    <content>It’s been quite some time since I last had Ah Fatt Fishball Noodle from Hong Lim. We got some for dinner yesterday and it was delicious! #food #foodtiktok #foodie #hawkerfood #sgfoodie </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7282712815041924359" rel="alternate"/>
+    <published>2023-09-25T10:45:16+00:00</published>
   </entry>
 </feed>
