@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-25T10:45:16+00:00</updated>
+  <updated>2023-09-26T11:49:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7279005653350272263</id>
-    <title>Filming for the 20th anniversary of WMI today. When I founded WMI, Singapore needed an institute to help build / skill Asset Management and Private Bankers . Now, Singapore is a major global financial hub — we have come a long way! </title>
-    <updated>2023-09-15T10:59:35+00:00</updated>
-    <content>Filming for the 20th anniversary of WMI today. When I founded WMI, Singapore needed an institute to help build / skill Asset Management and Private Bankers . Now, Singapore is a major global financial hub — we have come a long way! </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7279005653350272263" rel="alternate"/>
-    <published>2023-09-15T10:59:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7279318484935281928</id>
     <title>Sybil and I hosted Bhutan’s King Jigme Khesar Namgyel Wangchuck, who is here on an unofficial visit for brunch. We had a meaningful discussion on the role mindfulness carries within global leadership and the value of meditation. We then discussed global a</title>
@@ -91,5 +83,13 @@
     <content>It’s been quite some time since I last had Ah Fatt Fishball Noodle from Hong Lim. We got some for dinner yesterday and it was delicious! #food #foodtiktok #foodie #hawkerfood #sgfoodie </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7282712815041924359" rel="alternate"/>
     <published>2023-09-25T10:45:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7283100359403375880</id>
+    <title>Today, Shinmin Daily News asked me to share some of the biggest life lessons I learned from Mr Lee Kuan Yew. His fervour towards life long learning continues to inspire me. I will always be humbled that I got to teach him meditation. #lky #leekuanyew #lky</title>
+    <updated>2023-09-26T11:49:08+00:00</updated>
+    <content>Today, Shinmin Daily News asked me to share some of the biggest life lessons I learned from Mr Lee Kuan Yew. His fervour towards life long learning continues to inspire me. I will always be humbled that I got to teach him meditation. #lky #leekuanyew #lky100 </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7283100359403375880" rel="alternate"/>
+    <published>2023-09-26T11:49:08+00:00</published>
   </entry>
 </feed>
