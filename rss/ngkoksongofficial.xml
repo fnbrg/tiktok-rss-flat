@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-09-30T07:13:49+00:00</updated>
+  <updated>2023-10-01T10:15:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7279368850414636296</id>
-    <title>After a long day of meetings, we managed to tabao food from Tiong Bahru Food Centre. Guess which one is my favourite? </title>
-    <updated>2023-09-16T10:28:58+00:00</updated>
-    <content>After a long day of meetings, we managed to tabao food from Tiong Bahru Food Centre. Guess which one is my favourite? </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7279368850414636296" rel="alternate"/>
-    <published>2023-09-16T10:28:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7279766180502490376</id>
     <title>I am a huge fan of all our hawker food and enjoyed all 3 dishes yesterday although I did eat more of the ngoh hiang! Today Sybil went to tapao for everyone from Tai Wah! Some of you remembered my all time fave is ta mee pok extra chili. What is your favou</title>
@@ -91,5 +83,13 @@
     <content>Sybil and I had a delightful lunch with our Minister of Health Mr. Ong Ye Kung . He encouraged me to continue being an advocate for mental wellness.  Can you spot Max in the photos ?</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7284513747396234504" rel="alternate"/>
     <published>2023-09-30T07:13:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7284931531167010066</id>
+    <title>Sybil and I met up with our friend Lai Yong and her friends from Bhutan this morning, Tshering Tashi and his wife Dechen . We spoke about how mindfulness and meditation can bring about a more peaceful world. ❤️ </title>
+    <updated>2023-10-01T10:15:02+00:00</updated>
+    <content>Sybil and I met up with our friend Lai Yong and her friends from Bhutan this morning, Tshering Tashi and his wife Dechen . We spoke about how mindfulness and meditation can bring about a more peaceful world. ❤️ </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7284931531167010066" rel="alternate"/>
+    <published>2023-10-01T10:15:02+00:00</published>
   </entry>
 </feed>
