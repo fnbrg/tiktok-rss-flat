@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-01T10:15:02+00:00</updated>
+  <updated>2023-10-02T05:19:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7279766180502490376</id>
-    <title>I am a huge fan of all our hawker food and enjoyed all 3 dishes yesterday although I did eat more of the ngoh hiang! Today Sybil went to tapao for everyone from Tai Wah! Some of you remembered my all time fave is ta mee pok extra chili. What is your favou</title>
-    <updated>2023-09-17T12:10:47+00:00</updated>
-    <content>I am a huge fan of all our hawker food and enjoyed all 3 dishes yesterday although I did eat more of the ngoh hiang! Today Sybil went to tapao for everyone from Tai Wah! Some of you remembered my all time fave is ta mee pok extra chili. What is your favourite hawker food and where is it from?</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7279766180502490376" rel="alternate"/>
-    <published>2023-09-17T12:10:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7280381214983326994</id>
     <title>In between his meetings Papa brought me to cut my nails and shower today. No matter how busy he is always there for me — ❤️🐱! #britishshorthair #catsoftiktok #cats #britishshorthaircat #catlover </title>
@@ -91,5 +83,13 @@
     <content>Sybil and I met up with our friend Lai Yong and her friends from Bhutan this morning, Tshering Tashi and his wife Dechen . We spoke about how mindfulness and meditation can bring about a more peaceful world. ❤️ </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7284931531167010066" rel="alternate"/>
     <published>2023-10-01T10:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7285226328981376274</id>
+    <title>Spent Sunday with my old friends and some new ones I made over the past 2 months. We had lunch together savouring traditional Malay food with a modern spin by the passionate chef. The mee siam was a hit amongst us Montfort boys — it took us back to our fa</title>
+    <updated>2023-10-02T05:19:01+00:00</updated>
+    <content>Spent Sunday with my old friends and some new ones I made over the past 2 months. We had lunch together savouring traditional Malay food with a modern spin by the passionate chef. The mee siam was a hit amongst us Montfort boys — it took us back to our favourite mee siam stall in school!  Thankful for the time and attention all of these amazing folks gave me during the past few weeks.</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7285226328981376274" rel="alternate"/>
+    <published>2023-10-02T05:19:01+00:00</published>
   </entry>
 </feed>
