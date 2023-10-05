@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-02T05:19:01+00:00</updated>
+  <updated>2023-10-05T11:11:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7280381214983326994</id>
-    <title>In between his meetings Papa brought me to cut my nails and shower today. No matter how busy he is always there for me — ❤️🐱! #britishshorthair #catsoftiktok #cats #britishshorthaircat #catlover </title>
-    <updated>2023-09-19T03:57:28+00:00</updated>
-    <content>In between his meetings Papa brought me to cut my nails and shower today. No matter how busy he is always there for me — ❤️🐱! #britishshorthair #catsoftiktok #cats #britishshorthaircat #catlover </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7280381214983326994" rel="alternate"/>
-    <published>2023-09-19T03:57:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7280691335173033224</id>
     <title>So delighted last night to bump into George Yeo and his family at Porta Porta. </title>
@@ -91,5 +83,13 @@
     <content>Spent Sunday with my old friends and some new ones I made over the past 2 months. We had lunch together savouring traditional Malay food with a modern spin by the passionate chef. The mee siam was a hit amongst us Montfort boys — it took us back to our favourite mee siam stall in school!  Thankful for the time and attention all of these amazing folks gave me during the past few weeks.</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7285226328981376274" rel="alternate"/>
     <published>2023-10-02T05:19:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7286430531850439944</id>
+    <title>We spend our lives chasing money, power or control thinking that they result in more happiness. However, true happiness comes from searching within ourselves. I learned that much later in my life when I started looking for answers. #adulting #lifehacks #m</title>
+    <updated>2023-10-05T11:11:55+00:00</updated>
+    <content>We spend our lives chasing money, power or control thinking that they result in more happiness. However, true happiness comes from searching within ourselves. I learned that much later in my life when I started looking for answers. #adulting #lifehacks #moneytips #wellnesstips #lifetips </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7286430531850439944" rel="alternate"/>
+    <published>2023-10-05T11:11:55+00:00</published>
   </entry>
 </feed>
