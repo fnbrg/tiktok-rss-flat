@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-06T05:10:18+00:00</updated>
+  <updated>2023-10-06T10:06:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7281108407933783314</id>
-    <title>Chatted with Max this morning about my plans for the day. How’s everyone doing today? ☀️🌧️ #britishshorthair #catsoftiktok #britishshorthaircat #catlover #adayinmylife </title>
-    <updated>2023-09-21T02:59:22+00:00</updated>
-    <content>Chatted with Max this morning about my plans for the day. How’s everyone doing today? ☀️🌧️ #britishshorthair #catsoftiktok #britishshorthaircat #catlover #adayinmylife </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7281108407933783314" rel="alternate"/>
-    <published>2023-09-21T02:59:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7281177464334798087</id>
     <title>Met my friend Catholic Archbishop Marco Tin Win from Mandalay, Myanmar. He shared with me his  dream of building a small meditation centre in the hills of Mandalay. Myanmar as a Buddhist country is steeped in the tradition of meditation but the Catholic C</title>
@@ -91,5 +83,13 @@
     <content>Many of you have asked how to meditate . I hope you will find this short guide useful. What are some questions you have about meditation? ##adulting #lifehacks #wellnesstips #meditation #mentalhealth </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7286708431220657415" rel="alternate"/>
     <published>2023-10-06T05:10:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7286784764730707207</id>
+    <title>Dear friends, it has come to my attention that some accounts have resorted to using deepfakes of me or Sybil to sell financial products/services.  Sybil &amp; and I will only communicate with you via our personal and verified channels. Unless otherwise stated</title>
+    <updated>2023-10-06T10:06:31+00:00</updated>
+    <content>Dear friends, it has come to my attention that some accounts have resorted to using deepfakes of me or Sybil to sell financial products/services.  Sybil &amp; and I will only communicate with you via our personal and verified channels. Unless otherwise stated with our approval, we will not reach out to you or propagate messaging through other channels. Please be vigilant and double-check before engaging with such accounts. We have managed to get most of the videos taken down, except for one platform. We will continue to do our best to ensure they are removed so that our online community is kept safe.  Let us all play our parts in ensuring our own financial and digital defence. Do share this message with your family and friends. Have a good weekend!</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7286784764730707207" rel="alternate"/>
+    <published>2023-10-06T10:06:31+00:00</published>
   </entry>
 </feed>
