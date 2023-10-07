@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-06T10:06:31+00:00</updated>
+  <updated>2023-10-07T08:16:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7281177464334798087</id>
-    <title>Met my friend Catholic Archbishop Marco Tin Win from Mandalay, Myanmar. He shared with me his  dream of building a small meditation centre in the hills of Mandalay. Myanmar as a Buddhist country is steeped in the tradition of meditation but the Catholic C</title>
-    <updated>2023-09-21T07:27:19+00:00</updated>
-    <content>Met my friend Catholic Archbishop Marco Tin Win from Mandalay, Myanmar. He shared with me his  dream of building a small meditation centre in the hills of Mandalay. Myanmar as a Buddhist country is steeped in the tradition of meditation but the Catholic Church had placed little emphasis on the interior life. Catholics have grown up in a Buddhist environment with a longing and capacity for silence and meditation. At the national level, the oeople have been going through a tough time with the unstable political situation and the Covid pandemic. Hence the urgent need for a place of silence to heal the trauma of war and conflict.  I agreed to lend my support for Bishop Marco’s worthwhile endeavour.</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7281177464334798087" rel="alternate"/>
-    <published>2023-09-21T07:27:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7282351222437219592</id>
     <title>We are deeply saddened by the loss of our friend Rico @cattos_ric0kori . I cherish the occasion when I could hold him and play with him just a few short weeks ago. We will miss you my friend ❤️</title>
@@ -91,5 +83,13 @@
     <content>Dear friends, it has come to my attention that some accounts have resorted to using deepfakes of me or Sybil to sell financial products/services.  Sybil &amp; and I will only communicate with you via our personal and verified channels. Unless otherwise stated with our approval, we will not reach out to you or propagate messaging through other channels. Please be vigilant and double-check before engaging with such accounts. We have managed to get most of the videos taken down, except for one platform. We will continue to do our best to ensure they are removed so that our online community is kept safe.  Let us all play our parts in ensuring our own financial and digital defence. Do share this message with your family and friends. Have a good weekend!</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7286784764730707207" rel="alternate"/>
     <published>2023-10-06T10:06:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7287127406643514632</id>
+    <title>Had a great game with my friends early morning, despite the heat. Staying fit helps us embrace ageing — You’re never too old to live your best life! What is your favourite way to get your weekly dose of exercise? #fitness #fitnessmotivation #healthy #well</title>
+    <updated>2023-10-07T08:16:07+00:00</updated>
+    <content>Had a great game with my friends early morning, despite the heat. Staying fit helps us embrace ageing — You’re never too old to live your best life! What is your favourite way to get your weekly dose of exercise? #fitness #fitnessmotivation #healthy #wellness #tennis </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7287127406643514632" rel="alternate"/>
+    <published>2023-10-07T08:16:07+00:00</published>
   </entry>
 </feed>
