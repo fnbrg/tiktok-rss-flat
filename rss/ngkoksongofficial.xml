@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-23T10:16:00+00:00</updated>
+  <updated>2023-10-29T05:46:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7286430531850439944</id>
-    <title>We spend our lives chasing money, power or control thinking that they result in more happiness. However, true happiness comes from searching within ourselves. I learned that much later in my life when I started looking for answers. #adulting #lifehacks #m</title>
-    <updated>2023-10-05T11:11:55+00:00</updated>
-    <content>We spend our lives chasing money, power or control thinking that they result in more happiness. However, true happiness comes from searching within ourselves. I learned that much later in my life when I started looking for answers. #adulting #lifehacks #moneytips #wellnesstips #lifetips </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7286430531850439944" rel="alternate"/>
-    <published>2023-10-05T11:11:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7286708431220657415</id>
     <title>Many of you have asked how to meditate . I hope you will find this short guide useful. What are some questions you have about meditation? ##adulting #lifehacks #wellnesstips #meditation #mentalhealth </title>
@@ -91,5 +83,13 @@
     <content>Today I started to record my meditation series. Meditation has helped me tremendously in my life. Looking forward to share this life skill with all of you! #mentalhealth #meditation #mentalhealthmatters #lifehacks #lifetips </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7293095660495162631" rel="alternate"/>
     <published>2023-10-23T10:16:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7295252653968264456</id>
+    <title>Savouring the lunch Sybil made today for the family. She used lots of hearty ingredients and my heart was definitely full. Even though we’re busy all the time, we make it a point to spend Sundays having a meal together. ❤️ What are you having for lunch to</title>
+    <updated>2023-10-29T05:46:14+00:00</updated>
+    <content>Savouring the lunch Sybil made today for the family. She used lots of hearty ingredients and my heart was definitely full. Even though we’re busy all the time, we make it a point to spend Sundays having a meal together. ❤️ What are you having for lunch today?</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7295252653968264456" rel="alternate"/>
+    <published>2023-10-29T05:46:14+00:00</published>
   </entry>
 </feed>
