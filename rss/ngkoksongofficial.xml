@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-29T05:46:14+00:00</updated>
+  <updated>2023-10-31T23:51:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7286708431220657415</id>
-    <title>Many of you have asked how to meditate . I hope you will find this short guide useful. What are some questions you have about meditation? ##adulting #lifehacks #wellnesstips #meditation #mentalhealth </title>
-    <updated>2023-10-06T05:10:18+00:00</updated>
-    <content>Many of you have asked how to meditate . I hope you will find this short guide useful. What are some questions you have about meditation? ##adulting #lifehacks #wellnesstips #meditation #mentalhealth </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7286708431220657415" rel="alternate"/>
-    <published>2023-10-06T05:10:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7286784764730707207</id>
     <title>Dear friends, it has come to my attention that some accounts have resorted to using deepfakes of me or Sybil to sell financial products/services.  Sybil &amp; and I will only communicate with you via our personal and verified channels. Unless otherwise stated</title>
@@ -91,5 +83,13 @@
     <content>Savouring the lunch Sybil made today for the family. She used lots of hearty ingredients and my heart was definitely full. Even though we’re busy all the time, we make it a point to spend Sundays having a meal together. ❤️ What are you having for lunch today?</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7295252653968264456" rel="alternate"/>
     <published>2023-10-29T05:46:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7296274576445639954</id>
+    <title>I shared my secret to staying healthy at 75, ‘SHIELD’. This acronym was coined by Dr Rudolph Tanzi who specialises in Alzheimer’s and neurology. It is heartening that so many of you guys have picked up on my version of it and helped spread this life-savin</title>
+    <updated>2023-10-31T23:51:53+00:00</updated>
+    <content>I shared my secret to staying healthy at 75, ‘SHIELD’. This acronym was coined by Dr Rudolph Tanzi who specialises in Alzheimer’s and neurology. It is heartening that so many of you guys have picked up on my version of it and helped spread this life-saving message. When I came to know that Dr. Rudolph Tanzi is on the Scientific Board for Chromadex, it stimulated my interest in his work. He has been a leader in Alzheimer’s research for decades . I started reading up on some of his books , “The Super Brain” and “The Healing Self”, where I came across the wonderful acronym Dr. Tanzi used for healthy lifestyle especially when one is aging - S.H.I.E.L.D. When I had the opportunity to speak with Dr. Tanzi via zoom, I wanted to know how he came up with his acronym. Here is a sneak peek of the conversation. I hope that we continue to spread positive messages like this, so that we can keep the online space a truly beneficial one for all ❤️</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7296274576445639954" rel="alternate"/>
+    <published>2023-10-31T23:51:53+00:00</published>
   </entry>
 </feed>
