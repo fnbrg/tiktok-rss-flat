@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-10-31T23:51:53+00:00</updated>
+  <updated>2023-11-03T02:54:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7286784764730707207</id>
-    <title>Dear friends, it has come to my attention that some accounts have resorted to using deepfakes of me or Sybil to sell financial products/services.  Sybil &amp; and I will only communicate with you via our personal and verified channels. Unless otherwise stated</title>
-    <updated>2023-10-06T10:06:31+00:00</updated>
-    <content>Dear friends, it has come to my attention that some accounts have resorted to using deepfakes of me or Sybil to sell financial products/services.  Sybil &amp; and I will only communicate with you via our personal and verified channels. Unless otherwise stated with our approval, we will not reach out to you or propagate messaging through other channels. Please be vigilant and double-check before engaging with such accounts. We have managed to get most of the videos taken down, except for one platform. We will continue to do our best to ensure they are removed so that our online community is kept safe.  Let us all play our parts in ensuring our own financial and digital defence. Do share this message with your family and friends. Have a good weekend!</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7286784764730707207" rel="alternate"/>
-    <published>2023-10-06T10:06:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7287127406643514632</id>
     <title>Had a great game with my friends early morning, despite the heat. Staying fit helps us embrace ageing — You’re never too old to live your best life! What is your favourite way to get your weekly dose of exercise? #fitness #fitnessmotivation #healthy #well</title>
@@ -91,5 +83,13 @@
     <content>I shared my secret to staying healthy at 75, ‘SHIELD’. This acronym was coined by Dr Rudolph Tanzi who specialises in Alzheimer’s and neurology. It is heartening that so many of you guys have picked up on my version of it and helped spread this life-saving message. When I came to know that Dr. Rudolph Tanzi is on the Scientific Board for Chromadex, it stimulated my interest in his work. He has been a leader in Alzheimer’s research for decades . I started reading up on some of his books , “The Super Brain” and “The Healing Self”, where I came across the wonderful acronym Dr. Tanzi used for healthy lifestyle especially when one is aging - S.H.I.E.L.D. When I had the opportunity to speak with Dr. Tanzi via zoom, I wanted to know how he came up with his acronym. Here is a sneak peek of the conversation. I hope that we continue to spread positive messages like this, so that we can keep the online space a truly beneficial one for all ❤️</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7296274576445639954" rel="alternate"/>
     <published>2023-10-31T23:51:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7297063949218974984</id>
+    <title>Max and I would like to wish you a very good morning and a cheerful start to your day! What are your weekend plans? #britishshorthair #mentalhealthmatters #peace #motivation #morningroutine </title>
+    <updated>2023-11-03T02:54:59+00:00</updated>
+    <content>Max and I would like to wish you a very good morning and a cheerful start to your day! What are your weekend plans? #britishshorthair #mentalhealthmatters #peace #motivation #morningroutine </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7297063949218974984" rel="alternate"/>
+    <published>2023-11-03T02:54:59+00:00</published>
   </entry>
 </feed>
