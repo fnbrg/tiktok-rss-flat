@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-11-09T04:10:04+00:00</updated>
+  <updated>2023-11-09T10:05:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7287819286763146503</id>
-    <title>I have learned we must search for peace within ourselves, all the great religions teach us this. Meditation helped me look past the illusion of power and control. Going within ourselves, helps us see our oneness. #mentalhealth #peace #lifelessons #meditat</title>
-    <updated>2023-10-09T05:01:00+00:00</updated>
-    <content>I have learned we must search for peace within ourselves, all the great religions teach us this. Meditation helped me look past the illusion of power and control. Going within ourselves, helps us see our oneness. #mentalhealth #peace #lifelessons #meditation #lifehacks </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7287819286763146503" rel="alternate"/>
-    <published>2023-10-09T05:01:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7288651539541970194</id>
     <title>Meditation helped me and my late wife when she was dying of cancer to stay calm and peaceful in the face of extreme stress. While undergoing treatment, she remained cheerful in her final days. Our 15 year practice of meditation prepared us to be at peace </title>
@@ -91,5 +83,13 @@
     <content>Sybil baked me some oatmeal /flax seed/wheat germ sugar free cookies. They tasted ‘interesting’ but I savoured every bit of it because it was handmade with time and love. ❤️ #healthy #couplegoals #family #breakfast </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7299309806530088210" rel="alternate"/>
     <published>2023-11-09T04:10:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7299401465947278599</id>
+    <title>Very delighted last night that President Tharman and I came together to celebrate the 20th anniversary of Wealth Management Institute which I helped to set up in 2003. </title>
+    <updated>2023-11-09T10:05:45+00:00</updated>
+    <content>Very delighted last night that President Tharman and I came together to celebrate the 20th anniversary of Wealth Management Institute which I helped to set up in 2003. </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7299401465947278599" rel="alternate"/>
+    <published>2023-11-09T10:05:45+00:00</published>
   </entry>
 </feed>
