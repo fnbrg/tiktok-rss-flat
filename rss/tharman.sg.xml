@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-11-13T12:45:00+00:00</updated>
+  <updated>2023-11-20T05:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7282565567511350535</id>
-    <title>Hao Jia is a Singaporean pianist making waves. It was a delight to watch and listen to his performance last evening at the President’s Young Performers Concert - an important feature in the Singapore Symphony Orchestra's annual calendar. He came here as a</title>
-    <updated>2023-09-25T01:13:54+00:00</updated>
-    <content>Hao Jia is a Singaporean pianist making waves. It was a delight to watch and listen to his performance last evening at the President’s Young Performers Concert - an important feature in the Singapore Symphony Orchestra's annual calendar. He came here as a little kid, and developed his talent for music from age 5, starting at NAFA. He had good teachers, most recently Prof Albert Tiu at the Yong Siew Toh Conservatory of Music at NUS. He has now gone on to do a Masters at the Jacobs School of Music in the US.   He gave an outstanding rendition of Sergei Rachmaninoff’s Third Piano Concerto, accompanied by the orchestra. I knew nothing about it, but learnt on reading up yesterday that it is one of the most difficult and complex piano concertos. With all the melancholy of the 19th century Russian romantic tradition. Hao Jia did it with maturity and aplomb. Photos by MCI (Betty Chua) and Singapore Symphony Orchestra</content>
-    <link href="https://tiktok.com/@tharman.sg/video/7282565567511350535" rel="alternate"/>
-    <published>2023-09-25T01:13:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7283817481972534529</id>
     <title>The Community Chest Uniting Hearts Charity TV show last Sunday saw an outpouring of support, with over 20,000 contributions. Community Chest supports over 200 social programmes, helping everyone have hope.</title>
@@ -91,5 +83,13 @@
     <content>Deepavali Istana Open House 2023</content>
     <link href="https://tiktok.com/@tharman.sg/video/7300926832579316993" rel="alternate"/>
     <published>2023-11-13T12:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7303407958249983240</id>
+    <title>We must develop and use our emotional intelligence or EQ, through life. It will matter even more in a future of AI.  #RespectForAll #SFF2023  Video footage credits to: Singapore FinTech Festival </title>
+    <updated>2023-11-20T05:12:59+00:00</updated>
+    <content>We must develop and use our emotional intelligence or EQ, through life. It will matter even more in a future of AI.  #RespectForAll #SFF2023  Video footage credits to: Singapore FinTech Festival </content>
+    <link href="https://tiktok.com/@tharman.sg/video/7303407958249983240" rel="alternate"/>
+    <published>2023-11-20T05:12:59+00:00</published>
   </entry>
 </feed>
