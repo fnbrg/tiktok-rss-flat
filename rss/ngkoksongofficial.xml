@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-11-24T10:19:26+00:00</updated>
+  <updated>2023-11-27T11:03:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7291914160974155016</id>
-    <title>Last week I met some of my young friends, I listened as they shared their views on what common stressors and causes of anxiety are today. I shared my idea for a short meditation series and they encouraged me to start filming. Please stay tuned! #mentalhea</title>
-    <updated>2023-10-20T05:51:11+00:00</updated>
-    <content>Last week I met some of my young friends, I listened as they shared their views on what common stressors and causes of anxiety are today. I shared my idea for a short meditation series and they encouraged me to start filming. Please stay tuned! #mentalhealth #motivation #lifehacks #peace #mentalhealthmatters </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7291914160974155016" rel="alternate"/>
-    <published>2023-10-20T05:51:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7293095660495162631</id>
     <title>Today I started to record my meditation series. Meditation has helped me tremendously in my life. Looking forward to share this life skill with all of you! #mentalhealth #meditation #mentalhealthmatters #lifehacks #lifetips </title>
@@ -91,5 +83,13 @@
     <content>Meditation entered my life at a critical juncture thirty five years ago when I was searching for deeper meaning, purpose and happiness. It took me three years to establish  the daily practice of meditating every morning and evening.  Meditation has transformed  my life in my work, relationships and leadership responsibilities by the  cultivation of attention and other- centredness.  From my experience, meditation has been the kindest thing I have done for myself. It is also probably the kindest thing we can do for others because  meditation helps us grow in love, peace and joy. This is why I would like to share with you my practice of meditation so that your life too can be transformed. #meditation #mentalhealth #lifehacks #lifeskills #mentalhealthmatters </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7304971268573383944" rel="alternate"/>
     <published>2023-11-24T10:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7306096003776548104</id>
+    <title>In this week of ‘Meditation As A Life Skill’ I share the necessary skills you need to begin your meditation journey. Choosing your mantra is important for your practice of Meditation and in fact, your day to day life. Meditation helps us grow in love, pea</title>
+    <updated>2023-11-27T11:03:58+00:00</updated>
+    <content>In this week of ‘Meditation As A Life Skill’ I share the necessary skills you need to begin your meditation journey. Choosing your mantra is important for your practice of Meditation and in fact, your day to day life. Meditation helps us grow in love, peace and joy.  full video link in bio  #meditation #mentalhealth #mentalhealthawareness #mantra #dailymotivation </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7306096003776548104" rel="alternate"/>
+    <published>2023-11-27T11:03:58+00:00</published>
   </entry>
 </feed>
