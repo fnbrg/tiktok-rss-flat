@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-11-20T05:19:36+00:00</updated>
+  <updated>2023-11-24T10:19:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7290373693484584199</id>
-    <title>Sybil made us one of her childhood favourites today — Peanut Butter Banana Sandwich! Even though I told her the taste was ‘ok’, I was smiling widely. I am blessed to be able to share these moments with her. This is a reminder to tell your loved ones you a</title>
-    <updated>2023-10-16T02:13:25+00:00</updated>
-    <content>Sybil made us one of her childhood favourites today — Peanut Butter Banana Sandwich! Even though I told her the taste was ‘ok’, I was smiling widely. I am blessed to be able to share these moments with her. This is a reminder to tell your loved ones you appreciate them ❤️ #breakfast #family #couplegoals #couple #peanutbutter </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7290373693484584199" rel="alternate"/>
-    <published>2023-10-16T02:13:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7291914160974155016</id>
     <title>Last week I met some of my young friends, I listened as they shared their views on what common stressors and causes of anxiety are today. I shared my idea for a short meditation series and they encouraged me to start filming. Please stay tuned! #mentalhea</title>
@@ -91,5 +83,13 @@
     <content>I started today with a game of tennis in the morning so I decided to reward myself with this local favourite: Satay Beehoon! I’m smiling widely because it’s been awhile since I last savoured this. Enjoying this bowl at Tangs Foodcourt, with Sybil and her dad. What are you having for lunch today? #foodie #foodtiktok #lunchtime #hawkerfood #singapore </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7303409660873248007" rel="alternate"/>
     <published>2023-11-20T05:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7304971268573383944</id>
+    <title>Meditation entered my life at a critical juncture thirty five years ago when I was searching for deeper meaning, purpose and happiness. It took me three years to establish  the daily practice of meditating every morning and evening.  Meditation has transf</title>
+    <updated>2023-11-24T10:19:26+00:00</updated>
+    <content>Meditation entered my life at a critical juncture thirty five years ago when I was searching for deeper meaning, purpose and happiness. It took me three years to establish  the daily practice of meditating every morning and evening.  Meditation has transformed  my life in my work, relationships and leadership responsibilities by the  cultivation of attention and other- centredness.  From my experience, meditation has been the kindest thing I have done for myself. It is also probably the kindest thing we can do for others because  meditation helps us grow in love, peace and joy. This is why I would like to share with you my practice of meditation so that your life too can be transformed. #meditation #mentalhealth #lifehacks #lifeskills #mentalhealthmatters </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7304971268573383944" rel="alternate"/>
+    <published>2023-11-24T10:19:26+00:00</published>
   </entry>
 </feed>
