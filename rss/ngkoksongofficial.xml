@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-11-27T11:03:58+00:00</updated>
+  <updated>2023-11-28T03:18:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7293095660495162631</id>
-    <title>Today I started to record my meditation series. Meditation has helped me tremendously in my life. Looking forward to share this life skill with all of you! #mentalhealth #meditation #mentalhealthmatters #lifehacks #lifetips </title>
-    <updated>2023-10-23T10:16:00+00:00</updated>
-    <content>Today I started to record my meditation series. Meditation has helped me tremendously in my life. Looking forward to share this life skill with all of you! #mentalhealth #meditation #mentalhealthmatters #lifehacks #lifetips </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7293095660495162631" rel="alternate"/>
-    <published>2023-10-23T10:16:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7295252653968264456</id>
     <title>Savouring the lunch Sybil made today for the family. She used lots of hearty ingredients and my heart was definitely full. Even though we’re busy all the time, we make it a point to spend Sundays having a meal together. ❤️ What are you having for lunch to</title>
@@ -91,5 +83,13 @@
     <content>In this week of ‘Meditation As A Life Skill’ I share the necessary skills you need to begin your meditation journey. Choosing your mantra is important for your practice of Meditation and in fact, your day to day life. Meditation helps us grow in love, peace and joy.  full video link in bio  #meditation #mentalhealth #mentalhealthawareness #mantra #dailymotivation </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7306096003776548104" rel="alternate"/>
     <published>2023-11-27T11:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7306347062562458898</id>
+    <title>Started the morning with a game of tennis with my regular buddies! We played a good game and had a hearty chat over roti Prata after (as a reward for keeping fit) 🤣. We talked a little about my new meditation series , the importance of exercise and intera</title>
+    <updated>2023-11-28T03:18:17+00:00</updated>
+    <content>Started the morning with a game of tennis with my regular buddies! We played a good game and had a hearty chat over roti Prata after (as a reward for keeping fit) 🤣. We talked a little about my new meditation series , the importance of exercise and interacting with people daily for our mental health , financial literacy for all ages and how we can better share our lived experiences. #meditation #tennis #healthylifestyle #lifegoals #lifelessons </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7306347062562458898" rel="alternate"/>
+    <published>2023-11-28T03:18:17+00:00</published>
   </entry>
 </feed>
