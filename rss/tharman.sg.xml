@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tharman.sg</id>
   <title>tharman.sg TikTok</title>
-  <updated>2023-11-20T05:12:59+00:00</updated>
+  <updated>2023-11-30T10:13:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tharman.sg</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tharman.sg/video/7283817481972534529</id>
-    <title>The Community Chest Uniting Hearts Charity TV show last Sunday saw an outpouring of support, with over 20,000 contributions. Community Chest supports over 200 social programmes, helping everyone have hope.</title>
-    <updated>2023-09-28T10:11:59+00:00</updated>
-    <content>The Community Chest Uniting Hearts Charity TV show last Sunday saw an outpouring of support, with over 20,000 contributions. Community Chest supports over 200 social programmes, helping everyone have hope.</content>
-    <link href="https://tiktok.com/@tharman.sg/video/7283817481972534529" rel="alternate"/>
-    <published>2023-09-28T10:11:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tharman.sg/video/7287073623624486145</id>
     <title>Volunteers are a blessing.  @Singapore Red Cross promotes something essential, that we must strengthen in national character: solidarity with those facing disadvantage, within and beyond our shores.  #sgredcross #TogetherForHumanity #RespectforAll ‎</title>
@@ -91,5 +83,13 @@
     <content>We must develop and use our emotional intelligence or EQ, through life. It will matter even more in a future of AI.  #RespectForAll #SFF2023  Video footage credits to: Singapore FinTech Festival </content>
     <link href="https://tiktok.com/@tharman.sg/video/7303407958249983240" rel="alternate"/>
     <published>2023-11-20T05:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tharman.sg/video/7307196139470671106</id>
+    <title>Henry Kissinger lived a life of conviction. He was also remarkable for how he remained actively involved in US and global affairs till his last weeks, at age 100. His role in orchestrating the reopening of relations between the US and China in 1972, after</title>
+    <updated>2023-11-30T10:13:05+00:00</updated>
+    <content>Henry Kissinger lived a life of conviction. He was also remarkable for how he remained actively involved in US and global affairs till his last weeks, at age 100. His role in orchestrating the reopening of relations between the US and China in 1972, after over two decades of America’s isolation of China’s communist state, was I believe his most important contribution. Kissinger had visited China in secrecy a few times a year earlier. He got to know Premier Zhou Enlai well (shown here helping Kissinger with his food). Think of the times. China was in the throes of the Cultural Revolution, and could not have been more different from America. But Kissinger believed that excluding China would leave America with one arm behind its back - and disadvantaged in its Cold War with the Soviet Union. I invited Kissinger to speak to a meeting of the Group of Thirty last year. He was as acute as ever, at 99. He had visited China countless times since that momentous agreement. He was convinced that the US and China could today, once again, develop a close dialogue and develop a basis to work with each other, even as they compete with each other and have differences with each other. The recent meeting between President Biden and President Xi in San Francisco hopefully opens the door.   Henry Kissinger also had a strong connection with Singapore. MM Lee Kuan Yew and he had developed a deep regard for each other, starting from the late 60s. His latest book, published just last year, was a study of six persons he considered extraordinary leaders of their times. Mr Lee was one of them. Kissinger ended his study of him by reflecting on what Mr Lee himself had said some 40 years ago -  leaders must have a sense of reality of what is possible, but cannot merely be realistic. In Mr Lee’s words, “You must be able to soar above reality and say ‘this is also possible’. Kissinger was surely right, that it was the trait that distinguished the most exceptional leaders.  Photo: Getty Images</content>
+    <link href="https://tiktok.com/@tharman.sg/video/7307196139470671106" rel="alternate"/>
+    <published>2023-11-30T10:13:05+00:00</published>
   </entry>
 </feed>
