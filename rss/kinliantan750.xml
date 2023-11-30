@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kinliantan750</id>
   <title>kinliantan750 TikTok</title>
-  <updated>2023-11-28T01:01:58+00:00</updated>
+  <updated>2023-11-29T06:47:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kinliantan750</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7305885345617317138</id>
-    <title>No Title</title>
-    <updated>2023-11-26T21:26:41+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7305885345617317138" rel="alternate"/>
-    <published>2023-11-26T21:26:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kinliantan750/video/7305886044493286674</id>
     <title>No Title</title>
@@ -77,19 +69,27 @@
     <published>2023-11-27T23:42:53+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kinliantan750/video/7306294486680784136</id>
-    <title>No Title</title>
-    <updated>2023-11-27T23:54:24+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@kinliantan750/video/7306294486680784136" rel="alternate"/>
-    <published>2023-11-27T23:54:24+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kinliantan750/video/7306311928547183879</id>
     <title>No Title</title>
     <updated>2023-11-28T01:01:58+00:00</updated>
     <content>No Description</content>
     <link href="https://tiktok.com/@kinliantan750/video/7306311928547183879" rel="alternate"/>
     <published>2023-11-28T01:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7306722120254475528</id>
+    <title>No Title</title>
+    <updated>2023-11-29T03:33:38+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7306722120254475528" rel="alternate"/>
+    <published>2023-11-29T03:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kinliantan750/video/7306772046812286216</id>
+    <title>No Title</title>
+    <updated>2023-11-29T06:47:24+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kinliantan750/video/7306772046812286216" rel="alternate"/>
+    <published>2023-11-29T06:47:24+00:00</published>
   </entry>
 </feed>
