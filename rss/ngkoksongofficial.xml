@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-11-28T03:18:17+00:00</updated>
+  <updated>2023-12-01T05:07:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7295252653968264456</id>
-    <title>Savouring the lunch Sybil made today for the family. She used lots of hearty ingredients and my heart was definitely full. Even though we’re busy all the time, we make it a point to spend Sundays having a meal together. ❤️ What are you having for lunch to</title>
-    <updated>2023-10-29T05:46:14+00:00</updated>
-    <content>Savouring the lunch Sybil made today for the family. She used lots of hearty ingredients and my heart was definitely full. Even though we’re busy all the time, we make it a point to spend Sundays having a meal together. ❤️ What are you having for lunch today?</content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7295252653968264456" rel="alternate"/>
-    <published>2023-10-29T05:46:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7296274576445639954</id>
     <title>I shared my secret to staying healthy at 75, ‘SHIELD’. This acronym was coined by Dr Rudolph Tanzi who specialises in Alzheimer’s and neurology. It is heartening that so many of you guys have picked up on my version of it and helped spread this life-savin</title>
@@ -91,5 +83,13 @@
     <content>Started the morning with a game of tennis with my regular buddies! We played a good game and had a hearty chat over roti Prata after (as a reward for keeping fit) 🤣. We talked a little about my new meditation series , the importance of exercise and interacting with people daily for our mental health , financial literacy for all ages and how we can better share our lived experiences. #meditation #tennis #healthylifestyle #lifegoals #lifelessons </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7306347062562458898" rel="alternate"/>
     <published>2023-11-28T03:18:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7307488548993731847</id>
+    <title>Meditation helps us tune out distractions by bringing our body and mind to stillness so that we can connect with our spirit. The human body is 3 in 1 — Body, Mind &amp; Spirit. We spend a lot of time developing our minds and bodies but we have neglected nouri</title>
+    <updated>2023-12-01T05:07:46+00:00</updated>
+    <content>Meditation helps us tune out distractions by bringing our body and mind to stillness so that we can connect with our spirit. The human body is 3 in 1 — Body, Mind &amp; Spirit. We spend a lot of time developing our minds and bodies but we have neglected nourishing our spirit. Here’s some simple steps to help you access your spirit. #meditation #lifegoals #lifehacks #mentalhealth #mentalhealthmatters  full video in bio</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7307488548993731847" rel="alternate"/>
+    <published>2023-12-01T05:07:46+00:00</published>
   </entry>
 </feed>
