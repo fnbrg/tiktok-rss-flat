@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-12-03T11:16:35+00:00</updated>
+  <updated>2023-12-06T02:25:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7297063949218974984</id>
-    <title>Max and I would like to wish you a very good morning and a cheerful start to your day! What are your weekend plans? #britishshorthair #mentalhealthmatters #peace #motivation #morningroutine </title>
-    <updated>2023-11-03T02:54:59+00:00</updated>
-    <content>Max and I would like to wish you a very good morning and a cheerful start to your day! What are your weekend plans? #britishshorthair #mentalhealthmatters #peace #motivation #morningroutine </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7297063949218974984" rel="alternate"/>
-    <published>2023-11-03T02:54:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7299309806530088210</id>
     <title>Sybil baked me some oatmeal /flax seed/wheat germ sugar free cookies. They tasted ‘interesting’ but I savoured every bit of it because it was handmade with time and love. ❤️ #healthy #couplegoals #family #breakfast </title>
@@ -91,5 +83,13 @@
     <content>Anything worthwhile in life, requires discipline. Discipline is liking what we do while indulgence is doing what we like. If want to persevere in meditation and reap its benefits, we must be disciplined in our practice. #meditation #lifegoals #lifehacks #mentalhealthmatters #discipline </content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7308325761218317576" rel="alternate"/>
     <published>2023-12-03T11:16:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7309302035231329544</id>
+    <title>During Easter last year, Sybil and I brought Max home for the first time. He was terribly ill after quarantine when he arrived with infection and ringworm in patches on his head, paws and his little tail. It took 5 long months of constant care from the ve</title>
+    <updated>2023-12-06T02:25:05+00:00</updated>
+    <content>During Easter last year, Sybil and I brought Max home for the first time. He was terribly ill after quarantine when he arrived with infection and ringworm in patches on his head, paws and his little tail. It took 5 long months of constant care from the vet who came by weekly as we could not do it alone. We spent time to shower Max with lots of love and prayers to get him healthy again.  Above all, we learned a lot about trust — particularly how it takes time to build. It may be frustrating for others when they are suffering and cannot communicate what it is that is afflicting them. Seeing Max through his rough days, to his fullest health reminded us that it takes love and patience to overcome situations together. You don’t need to speak the same language , it is in our actions that others can begin to understand us, who we are. It’s a life lesson we are thankful for.  What is one life lesson you’re grateful for?</content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7309302035231329544" rel="alternate"/>
+    <published>2023-12-06T02:25:05+00:00</published>
   </entry>
 </feed>
