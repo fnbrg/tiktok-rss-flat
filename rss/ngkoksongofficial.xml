@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ngkoksongofficial</id>
   <title>ngkoksongofficial TikTok</title>
-  <updated>2023-12-06T02:25:05+00:00</updated>
+  <updated>2023-12-07T05:24:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://fnbrg.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ngkoksongofficial</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ngkoksongofficial/video/7299309806530088210</id>
-    <title>Sybil baked me some oatmeal /flax seed/wheat germ sugar free cookies. They tasted ‘interesting’ but I savoured every bit of it because it was handmade with time and love. ❤️ #healthy #couplegoals #family #breakfast </title>
-    <updated>2023-11-09T04:10:04+00:00</updated>
-    <content>Sybil baked me some oatmeal /flax seed/wheat germ sugar free cookies. They tasted ‘interesting’ but I savoured every bit of it because it was handmade with time and love. ❤️ #healthy #couplegoals #family #breakfast </content>
-    <link href="https://tiktok.com/@ngkoksongofficial/video/7299309806530088210" rel="alternate"/>
-    <published>2023-11-09T04:10:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ngkoksongofficial/video/7299401465947278599</id>
     <title>Very delighted last night that President Tharman and I came together to celebrate the 20th anniversary of Wealth Management Institute which I helped to set up in 2003. </title>
@@ -91,5 +83,13 @@
     <content>During Easter last year, Sybil and I brought Max home for the first time. He was terribly ill after quarantine when he arrived with infection and ringworm in patches on his head, paws and his little tail. It took 5 long months of constant care from the vet who came by weekly as we could not do it alone. We spent time to shower Max with lots of love and prayers to get him healthy again.  Above all, we learned a lot about trust — particularly how it takes time to build. It may be frustrating for others when they are suffering and cannot communicate what it is that is afflicting them. Seeing Max through his rough days, to his fullest health reminded us that it takes love and patience to overcome situations together. You don’t need to speak the same language , it is in our actions that others can begin to understand us, who we are. It’s a life lesson we are thankful for.  What is one life lesson you’re grateful for?</content>
     <link href="https://tiktok.com/@ngkoksongofficial/video/7309302035231329544" rel="alternate"/>
     <published>2023-12-06T02:25:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ngkoksongofficial/video/7309719340301962503</id>
+    <title>We all went to the dentist the other week, for annual cleaning and check-up. It may not be a pleasant experience to go to the dentist, but good oral hygiene is essential. It is important to keep our teeth and gums healthy at any age. Flossing is one thing</title>
+    <updated>2023-12-07T05:24:22+00:00</updated>
+    <content>We all went to the dentist the other week, for annual cleaning and check-up. It may not be a pleasant experience to go to the dentist, but good oral hygiene is essential. It is important to keep our teeth and gums healthy at any age. Flossing is one thing I have difficulty with.  After a smooth check-up, Sybil brought us for lunch nearby as I was starving. She gave me a chocolate to reward me for going for my appointment and my gleaming teeth. After I ate it, she told me it was free chocolate she got from a jar in the restaurant’s toilet! (It was yummy though) 😬😒 </content>
+    <link href="https://tiktok.com/@ngkoksongofficial/video/7309719340301962503" rel="alternate"/>
+    <published>2023-12-07T05:24:22+00:00</published>
   </entry>
 </feed>
